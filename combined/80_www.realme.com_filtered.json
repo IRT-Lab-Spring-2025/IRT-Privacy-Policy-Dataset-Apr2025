@@ -1,0 +1,58 @@
+[
+  {
+    "We may partner with third parties to display advertisements on our website or to manage our advertisements on other sites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Our third-party partners may use cookies or similar tracking technologies to provide advertisements to you based on your browsing activities and interests.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You may choose to opt-out of interest-based advertising by managing the cookies and the cookie preferences.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We have data centers in France, Singapore, India, and Indonesia, which means that in compliance with applicable laws, your personal information may be transferred to or accessed from countries or regions outside of where you use our services.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This means that your personal information could be stored in a country that offers a level of protection that may, in certain instances, be less than the country or region in which you are located.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For example, we may seek your permission to transfer your personal information across borders, and we will implement adequate security measures such as encryption and de-identification where feasible and sign the necessary data transmissionsharing agreements with the recipients of your personal information prior to the transfer taking place.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Or in the absence of appropriate safeguards as described above, we will require your express consent to the cross-border transfer of your personal information, or take any other protective measures recognized as adequate to protect your personal information.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Where you have purchased goods or services from us or you have provided your consent to be contacted for marketing, you agree that we may send you advertisements, promotion, or publicity information including commercial and non-commercial messages ourselves, or via third-party advertising or marketing companies.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "ACC will collect anonymous non-personally identifiable information about your website visit through pixel tags, sometimes known as cookies. These tags help us track information about your visit and are used to deliver banner advertisements to you on the Internet.": {
+            "data_transferred_to_unfriendly_countries": false,
+            "data_shared_with_advertisers": true,
+            "data_used_for_AI_training": false
+        }
+    },
+    {
+        "A \"tracking pixel\" (sometimes called \"web beacons\", \"transparent GIFs\", \"clear GIFs\", \"pixel gifs\", or \"pixel tags\") is a tiny, invisible image that allows us to track activities based on pages you visit. Tracking pixels redeliver advertising and notifications through 3rd party vendors. No personally identifiable information is collected through these retargeting services, and we do not sell or rent the information collected through tracking pixels. Information collected through tracking pixels can only be shared with third parties in aggregated form and in accordance with the college's privacy policy.": {
+            "data_transferred_to_unfriendly_countries": false,
+            "data_shared_with_advertisers": true,
+            "data_used_for_AI_training": false
+        }
+    }
+]

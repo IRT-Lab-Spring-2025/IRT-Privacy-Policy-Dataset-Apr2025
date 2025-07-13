@@ -1,0 +1,23 @@
+[
+  {
+    "We work with other companies that provide us with analytics and advertising services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may sometimes need to work with companies outside of the UK or European Economic Area EEA, including eMed affiliate companies, to help us deliver services to you.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This will always be in line with applicable data protection laws and will include using appropriate safeguards such as the execution of appropriate data transfer agreements incorporating European Commission approved Standard Contractual Clauses along with other safeguards where appropriate or confirming other controls to comply with UK data protection requirements.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

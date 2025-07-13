@@ -1,0 +1,37 @@
+[
+  {
+    "Data Transfer Your personal information may be stored and processed in any country, province or state each a Country where we have facilities or in which we engage third party service providers.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "As a result, your personal information may be transferred to Countries outside your Country of residence, which may have different data protection rules than in your Country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "While such information is outside of your Country, it is subject to the laws of the Country in which it is held, and may be subject to disclosure to the governments, courts or law enforcement or regulatory agencies of such other Country, pursuant to the laws of such Country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "However, our practices regarding your personal information will at all times continue to be governed by this Privacy Policy and, if applicable, we will comply with the GDPR requirements of providing adequate protection for the transfer of personal information from the EUEEA to other countries.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you use these tools, you permit us to send this information to the other companies services and you acknowledge that we are not responsible for the other companies use of this information because, well, we dont control them at all.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

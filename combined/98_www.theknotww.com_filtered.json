@@ -1,0 +1,16 @@
+[
+  {
+    "Additionally, by providing Submitted Content, you authorize us to use the names, voices, photographs, likenesses, performances, and biographical data included in or associated with any Submitted Content in connection with the advertising, promotion, trade and other exploitation of the Submitted Content and the rights granted herein.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Without limiting the foregoing, our license to the Submitted Content includes the right to train any artificial intelligence tool we use or create in connection with the Services, our business, or the promotion thereof.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "The information and the content of your submissions may from time to time be hosted on third-party servers under contract agreements with CBCRadio-Canada that guarantee the respect of CBCRadio-Canada's internal policies, in Canada or elsewhere, in which case foreign legislation may apply.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We and select advertising partners use trackers to collect some of your data in order to enhance your experience and to deliver personalized content and advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

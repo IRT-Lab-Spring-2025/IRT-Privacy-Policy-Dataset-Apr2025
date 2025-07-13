@@ -1,0 +1,30 @@
+[
+  {
+    "This includes sharing with service providers to help perform business functions at our direction, sharing with your consent, sharing for marketing purposes, sharing as part of corporate transactions, and sharing to protect lawful interests.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "It may also be processed by staff operating outside the EEA who work for PicClick or for our third-party service providers.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This may entail a transfer of your personal information across international borders.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The data protections standards may differ and be lower than the standards enforced in your jurisdiction.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

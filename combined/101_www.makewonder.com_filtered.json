@@ -1,0 +1,100 @@
+[
+  {
+    "Third parties may access, collect, store, and use Browsing Information.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Such third parties may include analytics companies and advertising service providers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These companies may use the Browsing Information to identify you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For our General-Audience Sites, Wonder Workshop may partner with Third Party Advertising Companies.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These are third-party advertisers, ad servers, and ad networks.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "They use this information to provide advertisements about goods and services of interest to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This process may include re-targeted ads that attempt to direct you back to our General-Audience Sites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "It may also include ads targeted based on your overall browsing interests.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Also, for other marketing purposes of Wonder Workshop or partners.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Your information collected through the Service may be stored and processed in the United States or any other country in which Wonder Workshop or its subsidiaries or service providers maintain facilities.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Wonder Workshop may transfer information that we collect about you, including Personal Information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you are located in the European Union or other regions with laws governing data collection and use that may differ from US law, please note that we may transfer information, including Personal Information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the US or any other country in which Wonder Workshop or its parent, subsidiaries, or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may transfer information, including Personal Information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "When you access the Services you acknowledge and agree that information you provide may be transferred to a jurisdiction other then your country of residence.Governing Law These Terms are governed by the internal substantive laws of the State of California.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

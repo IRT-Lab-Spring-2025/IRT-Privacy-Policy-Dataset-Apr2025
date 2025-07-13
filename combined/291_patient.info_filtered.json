@@ -1,0 +1,23 @@
+[
+  {
+    "These messages may be targeted based on demographic or interest data which you have provided or which we have collected to make sure the offer is as relevant to you as possible.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For direct marketing communication purposes to help us to offer you relevant products and services this includes the use of cookies or similar technologies to collect and store information when you interact with the Website in order that we can provide you with more relevant advertisements.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may use service providers to help us run the Website or services available on the Website, some of whom may be based outside the UK or EEA.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

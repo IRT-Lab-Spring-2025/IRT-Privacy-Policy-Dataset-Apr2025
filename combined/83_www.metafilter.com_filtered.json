@@ -1,0 +1,30 @@
+[
+  {
+    "Cookies and Third Party Tracking: We participate in behavior-based advertising, this means that a third party uses technology e.g., a cookie to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests on our website, or on other websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "As a result your information may be processed in a foreign country where privacy laws may be less stringent than the laws in your country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "By submitting your personal information to us you agree to the transfer, storage and processing of your information in a country other than your country of residence including, but not necessarily limited to, the United States.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you would like more information concerning the categories of personal information, if any, we share with third parties or affiliates for those parties to use for direct marketing please submit a written request to us using the information in the Contact Information section below.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

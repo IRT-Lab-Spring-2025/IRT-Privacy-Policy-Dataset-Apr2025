@@ -1,0 +1,16 @@
+[
+  {
+    "Your personal data may be stored in locations overseas or in countries outside of your country of residence, in electronic or other medium.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In addition, as a global company, it may be necessary to share your personal data with and between our related corporations and affiliates, and third party service providers, some of which may be located in countries outside your country of residence for the purposes set out in this Policy.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

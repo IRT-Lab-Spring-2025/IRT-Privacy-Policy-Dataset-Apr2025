@@ -1,0 +1,65 @@
+[
+  {
+    "This data helps us send newsletters, marketing opportunities from us and our partners, and administrative communications while allowing us to provide relevant content and target advertisements.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may share anonymized hashed emails with third-party advertising providers for ad targeting, but your actual email address will never be shared.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Static Media does not provide any personally identifiable information to these advertisers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Third party advertisers, or companies working on their behalf, may serve directly to your browser the advertisements that appear on the Static Media Websites, which allows them to receive Log Data as defined above.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "They may also use cookies, JavaScript, tracking pixels and other technologies to measure the effectiveness of their ads and to personalize advertising content.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Our advertising partners may include Facebook and Twitter.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To learn more about interest-based advertising or to opt-out of this type of advertising by those third parties that are members of self-regulatory programs such as the Network Advertising Initiative, please visit the NAI's website https://optout.networkadvertising.org, which will allow you to opt out of Interest-Based Advertising by one, or all, NAI members.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Similarly, information regarding opting out of targeted advertising by Digital Advertising Alliance members can be found here https://optout.aboutads.info.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Most advertisers use third party cookies.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

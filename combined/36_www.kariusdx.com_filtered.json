@@ -1,0 +1,44 @@
+[
+  {
+    "The PII you provide to us or that is disclosed to us by our covered entity clients may be transferred to and stored with a cloud service provider with servers that are located in various jurisdictions.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Some of these jurisdictions may not have the same or substantially similar privacy laws than those of your home jurisdiction.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You have a number of options to control or limit how we and our partners use cookies and similar technologies, including for advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To opt out of ads on platforms that are targeted to your interests, based on your platform settings, check your mobile device for settings that control ads based on your interactions with the applications on your device.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For example, on your iOS device, enable the Limit Ad Tracking setting, and on your Android device, enable the Opt out of Ads Personalization setting.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "However, we believe that you should have a choice regarding interest-based ads served by our partners, which is why we outline the options available to you above.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

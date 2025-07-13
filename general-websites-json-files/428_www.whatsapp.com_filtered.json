@@ -1,0 +1,30 @@
+[
+  {
+    "WhatsApp shares information globally, both internally within the Meta Companies and externally with our partners and service providers, and with those with whom you communicate around the world, in accordance with this Privacy Policy.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Your information may, for example, be transferred or transmitted to, or stored and processed in, the United States countries or territories where the Meta Companies affiliates and partners, or our service providers are located or any other country or territory globally where our Services are provided outside of where you live for the purposes as described in this Privacy Policy.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Please keep in mind that the countries or territories to which your information is transferred may have different privacy laws and protections than what you have in your home country or territory.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "As part of the Meta Companies, WhatsApp receives information from, and shares information with, the Meta Companies as described in WhatsApps Privacy Policy, including to provide integrations which enable you to connect your WhatsApp experience with other Meta Company Products to ensure security, safety, and integrity across the Meta Company Products and to improve your ads and products experience across the Meta Company Products.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "Where appropriate, we use technical and organizational controls to prevent it from being used improperly, but this information is important to help improve algorithms for product functionality and safety, including features such as mapping topography, obstacles, traffic and the like.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "These enterprises largely fall into the following categories Advertising and marketing companies, data set and information vendors, public database providers, social media platforms, partners, providers of products or services, hosts or vendors at events or trade shows, research partners, enterprises that deploy the Intel Services or third party offerings that include Intel Services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This kind of data is used for work like improving algorithms and data models, product testing and improvement, enhancing existing products and developing new capabilities and features.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "For Advertising and Marketing We may use your devices physical location, combined with information about what advertisements you viewed and other information we collect, to enable us to provide personalized content and to study the effectiveness of advertising and marketing campaigns.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use automated analysis to make predictions such as your level of interest in particular products or services, or automated decision making to prevent theft, fraud or other crime.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "Intels artificial intelligence solutions may lead to automated processing of data in a variety of fields.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "For Advertising and Marketing We share your information with our third party company partners to prepare and deliver advertising and marketing content, to provide content services and to enable them to provide you with more personalized ads and to study the effectiveness of our campaigns.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may also transfer your personal information to our third party service providers, who may be located in a different countryregion to you.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may also transfer your personal information to our major data centers for processing in the following countriesregions Argentina, Austria, Brazil, Canada, China, Costa Rica, Denmark, Egypt, Finland, France, Germany, Hong Kong, India, Ireland, Israel, Italy, Japan, Malaysia, Mexico, Netherlands, Philippines, Poland, Romania, Russian Federation, Singapore, South Korea, Sweden, Switzerland, Taiwan, Turkey, United Kingdom, United States, United Arab Emirates, and Vietnam.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Likewise, for personal information originating in the United Kingdom UK that is transferred to an Intel entity outside of the UK that does not have an adequate level of protection as determined by the competent UK authorities, it does so on the basis of its UK binding corporate rules known as Intels UK Binding Corporate Rules UK BCRs. Intels UK BCRs establish adequate protection of personal information and are legally binding on the subsidiaries and affiliates identified in Appendix 1 to the UK BCRs. Intels UK BCRs can be accessed here.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

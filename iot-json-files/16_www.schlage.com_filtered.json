@@ -1,0 +1,72 @@
+[
+  {
+    "We also use and combine data to infer insights about you, for example, your product preferences, characteristics, predispositions, or behaviors.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "Further, we may disclose your information to other third parties, such as wholesalers, distributors, promotional partners, service providers, and others with whom we have marketing or other relationships for their own marketing purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To the extent permitted by law or with your consent, those third parties may use your Personal Information for their own marketing purposes, such as to market products and services that they believe would be of interest to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Although we do not sell your Personal Information for money, we do disclose your Personal Information with some third-party partners for these advertising purposes, as disclosed in this Privacy Statement and in our Cookie Policy.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You have the right to opt out of the sharing of your Personal Information for cross-context behavioral advertising purposes and the sale of your Personal Information.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Although we do not sell your Personal Information for money, we do disclose your Personal Information with some third-party partners for these advertising purposes, as disclosed in this Privacy Statement and in our Cookie Policy.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Under California's Shine the Light law, California residents who provide us certain Personal Information are entitled to request and obtain from us, free of charge, information about the Personal Information if any, and as defined under the law that we have shared with third parties during the preceding calendar year for their own direct marketing purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Please note that we may use, disclose, process, transfer, or store information, including Personal Information, outside the country in which it was collected, such as to the United States and other countries, which may not guarantee the same level of protection for Personal Information as the country in which you reside.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Additionally, there are situations when Personal Information is transmitted to third-party service providers in the United States and/or other countries, including countries in which Allegion operates or has offices to provide services for Allegion, such as payment processing, web hosting, and other services required by law.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In such situations, it may not be possible to fully protect your rights.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

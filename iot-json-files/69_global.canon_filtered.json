@@ -1,0 +1,16 @@
+[
+  {
+    "Due to the global nature of our business operations, your personal information may be transferred to countries outside of the country where you live, including if you live in the European Economic Area (EEA).": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If we transfer personal information outside to a country that provides a lower standard of legal protection for your personal information, we will ensure that your privacy rights are adequately protected by appropriate safeguards.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

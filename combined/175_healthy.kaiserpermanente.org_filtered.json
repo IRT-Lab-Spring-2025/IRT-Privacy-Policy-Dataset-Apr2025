@@ -1,0 +1,23 @@
+[
+  {
+    "We have contracted a third party ad network to manage our advertising on other sites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Our ad network service provider uses cookies, Web beacons, and other tracking technologies to collect information about your activities on this and other websites and to then provide you with KP advertising on other websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you wish to not have this information used for the purpose of serving you targeted ads, you may opt out.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

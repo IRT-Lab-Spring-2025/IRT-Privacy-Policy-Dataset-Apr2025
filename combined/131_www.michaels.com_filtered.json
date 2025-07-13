@@ -1,0 +1,23 @@
+[
+  {
+    "We may use tracking tools to serve you with interest-based advertising and to better understand your behaviors and browsing activities.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We permit third parties to gather information through our websites, including for behavioral advertising purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We allow third parties, including business partners and ad networks, to display advertising on our sites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "This may include data collected through cookies, pixels, and similar tracking technologies used in the AdTech ecosystem, which help us understand your interactions with our advertisements and improve our marketing efforts.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To provide and improve our products and services, including: a) register you as a new customer and maintain your account, b) process and deliver your order or service, c) facilitate and manage payments and fees, d) process any contract or business arrangement, e) collect and recover money owed to us, f) undertake analytics, g) provide artificial intelligence technology in our products, and h) develop and test product and service improvements to see if a product or service is working, troubleshoot and fix it when it's not, test out new products and services and conduct surveys about what you like about our products and services and what we can do better.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "To deliver website content, online advertisements, and marketing communications and measure the effectiveness of the advertising we serve to you, Identity data, Contact data, Preferences data, Usage data, Marketing and Communications data, Cookies and tracking information are used with consent and for our legitimate interests.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may share or sell your personal information with third parties for personalized advertising purposes, as defined under California and other applicable US state laws.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Personal advertising means advertisements we believe will be more interesting and useful to you based on your data collected by Dell.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Third parties may use the data we have shared to show you personalized ads.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can exercise your right to opt-out of selling or sharing your online information here.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you are using a browser with a privacy signal opting out of sale, these categories will automatically be OFF and remain OFF unless the signal is discontinued, allowing you to change these settings.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can also click on the Do Not Sell or Share My Personal Information link at the bottom of our webpage to exercise your opt out rights, or you or your authorized agent may send a request by mail at our address listed below.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This may involve the transfer of your personal information to countries outside your home country or region, which may have a different level of data protection from your home country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "We may also implement third-party content or advertising on the Site that may use clear gifs or other forms of web beacons, which allow the third-party content provider to read and write cookies to your browser in connection with your viewing of the third-party content on the Site.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This June Oven information may also be processed to improve the performance of the June Oven and add new functionality, such as the ability to recognize new foods.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "If you would like to learn more about behavioral advertising or to opt out of having this information used by companies that are part of the Network Advertising Initiative and the Digital Advertising Alliance to deliver targeted ads, please visit http://www.networkadvertising.org NAI and www.aboutads.infochoices DAA.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may make certain Deidentified Information or Aggregated Information available to third parties for various purposes, including i compliance with various reporting obligations ii for business or marketing purposes or iii to assist such parties in understanding our users' interests, habits, and usage patterns for certain programs, content, services, advertisements, promotions, and/or functionality available through the Service.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may use internet and network information we collect on the Service to personalize our services, such as remembering your information so that you will not have to re-enter it during your visit or the next time you visit the Service, to provide customized advertisements, content, and information, to monitor and analyze the effectiveness of Service and third-party marketing activities, to monitor aggregate site usage metrics such as total number of visitors and pages viewed, and to track your entries, submissions, and status in any promotions or other activities on the Service.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We participate in behavioral-based advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This means that a third party may use technology to collect information about your use of our Site or Service so that we can provide advertising about products and services tailored to your interest.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Also, we may transfer your personal information from the U.S. to other countries or regions in connection with storage and processing of personal information, fulfilling your requests, and operating the Service.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "By providing any information, including personal information, you consent, where such consent is permitted by applicable law, to the collection, storage, and processing in the U.S. and elsewhere as outlined in this Privacy Policy.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "When we transfer your personal information from the EEA to recipients located outside the EEA who are not in a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection to receive personal information, we do so on the basis of standard contractual clauses.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

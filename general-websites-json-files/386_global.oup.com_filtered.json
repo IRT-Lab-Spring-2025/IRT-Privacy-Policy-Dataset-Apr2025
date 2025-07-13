@@ -1,0 +1,16 @@
+[
+  {
+    "Providing targeted advertising for other OUP products and services that we think may be of interest to you, based on how you use OUP websites, products and services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Your personal information may be stored and processed outside of the country where it is collected, including outside of the United Kingdom UK and European Economic Area EEA.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

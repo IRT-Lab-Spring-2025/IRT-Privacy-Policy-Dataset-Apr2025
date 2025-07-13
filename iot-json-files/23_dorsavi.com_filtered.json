@@ -1,0 +1,16 @@
+[
+  {
+    "For customers and other data subjects located in the European Economic Area (EEA), your personal information will be transferred outside the European Economic Area (EEA).": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "dorsaVi, its Related Entities and some of our third-party service providers may be based outside of the EEA.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

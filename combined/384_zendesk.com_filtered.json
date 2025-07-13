@@ -1,0 +1,51 @@
+[
+  {
+    "Companies that operate Cookies and Tracking Technologies, described in Section 5, such as marketing and advertising partners.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Although we have not sold or shared personal data for money in the past 12 months, we engage in routine practices with our Digital Properties involving third parties that could be considered a sale or sharing as defined under California law.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You have the right to opt out of this sale or sharing of personal data.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In order to fully exercise the Right to Opt Out of Sale or Sharing with respect to any sale or sharing of information, you must undertake both of the following steps Submit a Right to Opt Out of Sale or Sharing request using our webform and Disable the use of advertising cookies and other tracking technologies by clicking the Do Not Sell or Share My Personal Information link in our website footer.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you block cookies, we will be unable to comply with your Right to Opt Out of Sale or Sharing request for device data that we automatically collect and disclose to third parties online using cookies, pixels, and other tracking technologies.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In accordance with the global nature of our operations, some of the recipients mentioned in Section 2 of the Notice may be located in countries outside the EEA, Switzerland, or the U.K., which do not provide an adequate level of data protection as defined by data protection laws in the EEA, Switzerland, and the U.K.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Transfers within the Zendesk Group or to third parties located in such third countries take place using a valid data transfer mechanism, such as the EU Standard Contractual Clauses and or the U.K. Addendum to such clauses, approved Binding Corporate Rules, approved codes of conduct and certifications mechanisms, on the basis of permissible statutory derogations, or any other valid data transfer mechanism issued or approved by the EEA, Swiss, or U.K. authorities.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

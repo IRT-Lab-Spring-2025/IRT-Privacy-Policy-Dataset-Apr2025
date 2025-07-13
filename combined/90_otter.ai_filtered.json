@@ -1,0 +1,142 @@
+[
+  {
+    "We train our proprietary artificial intelligence technology on de-identified audio recordings.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "We also train our technology on transcriptions to provide more accurate services, which may contain Personal Information.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "We obtain explicit permission (e.g. when you rate the transcript quality and check the box to give Otter.ai and its third-party service providers permission to access the conversation for training and product improvement purposes for manual review of specific audio recordings to further refine our model training data.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "We and our third party partners use Cookies, pixel tags, and similar technologies to collect information about your browsing activities and to distinguish you from other users of our Services in order to aid your experience and measure and improve our advertising effectiveness.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We also use third party advertising partners, including Facebook, to deliver ads to you on other sites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Data labeling service providers who provide annotation services and use the data we share to create training and evaluation data for Otters product features.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "Mobile advertising tracking providers who help us measure our advertising effectiveness, including AppsFlyer which is based in Israel.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Advertising Partners We work with third party advertising partners to show you ads that we think may interest you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Some of our advertising partners are members of the Network Advertising Initiative (https://optout.networkadvertising.org) or the Digital Advertising Alliance (https://optout.aboutads.info).": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you do not wish to receive personalized ads, please visit their opt-out pages to learn about how you may opt out of receiving web-based personalized ads from member companies.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can access any settings offered by your mobile operating system to limit ad tracking, or you can install the AppChoices mobile app to learn more about how you may opt out of personalized ads in mobile apps.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To facilitate our global operations, Otter.ai may transfer, store and process your operations with our partners and service providers based outside of the country in which you are based.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Laws in those countries may differ from the laws applicable to your country of residence.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Where we transfer, store and process your Personal Information outside of the EEA or the UK we will ensure that the appropriate safeguards are in place to ensure an adequate level of protection such as through acceding to the Standard Contractual Clauses.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You grant Otter.ai a worldwide, non-exclusive, royalty-free, fully paid right and license with the right to sublicense to host, store, transfer, display, perform, reproduce, modify, export, process, transform, and distribute your User Content, in whole or in part, in any media formats and through any media channels now known or hereafter developed in a manner that is under your control.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The Service may be implemented using machine learning systems with features and implementations designed to generate statistics, calibrate data models, and improve algorithms in the course of processing User Content and Usage Data Machine Learning.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "Nothing in these Terms prohibits Company from using such Machine Learning for testing, tuning, optimizing, validating, or otherwise enhancing the analytics, models, or algorithms underlying the Service.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "You acknowledge and agree that Otter.ai may collect, create, process, transmit, store, use, and disclose aggregated andor deidentified data derived from Data or use of the Services Aggregated Data for its business purposes, including for machine learning and training, industry analysis, benchmarking, and analytics.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "b. Customer Personal Data means any Data that constitutes Personal Data, the Processing of which is subject to Data Protection Law, for which Customer or Customers customers are the Controller, and which is Processed by Company to provide the Service c. Data Protection Law means the General Data Protection Regulation EU 2016679 GDPR, the United Kingdom General Data Protection Regulation, and e-Privacy Directive 200258EC as amended by Directive 2009136EC, and their national implementations in the European Economic Area EEA, Switzerland and the United Kingdom, each as applicable, and as may be amended or replaced from time to timed. Data Subject Rights means Data Subjects rights to information, access, rectification, erasure, restriction, portability, objection, and not to be subject to automated individual decision-making in accordance with Data Protection Lawe. International Data Transfer means any transfer of Customer Personal Data from the EEA, Switzerland or the United Kingdom to an international organization or to a country outside of the EEA, Switzerland and the United Kingdom f. Subprocessor means a Processor engaged by Company to Process Customer Personal Data and g. Standard Contractual Clauses means the clauses annexed to EU Commission Implementing Decision EU 2021914 of June 4, 2021 on standard contractual clauses for the transfer of personal data to third countries pursuant to Regulation EU 2016679 of the European parliament and of the Council h. UK Addendum means the addendum to the Standard Contractual Clauses issued by the UK Information Commissioner under Section 119A1 of the UK Data Protection Act 2018 version B1.0, in force March 21, 2022.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "9.3. By signing this DPA, Customer and Company conclude the UK Addendum which is hereby incorporated and applies to International Data Transfers outside the United Kingdom.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

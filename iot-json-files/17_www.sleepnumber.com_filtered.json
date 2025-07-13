@@ -1,0 +1,16 @@
+[
+  {
+    "Marketing Communications. With your permission, or with an opportunity for you to withdraw consent, we may share your information with third parties for marketing purposes, as permitted by law.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Website Analytics. We may also partner with selected third-party vendors, such as Google Analytics, to allow tracking technologies and remarketing services on the site through the use of first party cookies and third party cookies.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

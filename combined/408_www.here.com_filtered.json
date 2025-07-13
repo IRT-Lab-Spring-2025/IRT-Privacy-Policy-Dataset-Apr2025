@@ -1,0 +1,58 @@
+[
+  {
+    "When you use our location-based services and features, for example location-based search, navigation and routing, or request for map data, your location data is sent to HERE to serve you with the right content, which may also include location-based advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may use your personal data to personalize our offering and to provide you with more relevant services, for example, to make recommendations and to display customized content and advertising in our services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may conduct joint marketing and other communications with our partners, for example your mobile operator.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Therefore, your personal data may be transferred across international borders outside the country where you use our services, including to countries outside the European Economic Area (EEA) or the United Kingdom that do not have laws providing specific protection for personal data or that have different legal rules on data protection, for example, the United States of America.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In such cases we ensure that there is a legal basis for such a transfer and that adequate protection for your personal data is provided as required by applicable law, for example, by using standard contractual clauses approved by the European Commission or relevant authorities where necessary and by requiring the use of other appropriate technical and organizational information security measures.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The international data transfer agreement (IDTA) and the international data transfer addendum to the European Commission's standard contractual clauses for international data transfers (Addendum) or other transfer mechanisms as may be adopted in the future can be found on the website of the Information Commissioners Office.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We also use cookies for personalization and to display ads.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Some HERE websites use third party advertising technologies, such as DoubleClick, to serve ads.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

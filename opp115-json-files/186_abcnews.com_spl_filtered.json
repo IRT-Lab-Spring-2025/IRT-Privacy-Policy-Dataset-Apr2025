@@ -1,0 +1,30 @@
+[
+    {
+        "Provide you with advertising based on your activity on our sites and applications and on third-party sites and applications. To learn more about how we use your information for personalization and tracking, please visit Online Tracking and Advertising.": {
+            "data_transferred_to_unfriendly_countries": false,
+            "data_shared_with_advertisers": true,
+            "data_used_for_AI_training": false
+        }
+    },
+    {
+        "Electing to share your personal information with carefully selected companies so that they can send you offers and promotions about their products and services.": {
+            "data_transferred_to_unfriendly_countries": false,
+            "data_shared_with_advertisers": true,
+            "data_used_for_AI_training": false
+        }
+    },
+    {
+        "You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers here": {
+            "data_transferred_to_unfriendly_countries": false,
+            "data_shared_with_advertisers": true,
+            "data_used_for_AI_training": false
+        }
+    },
+    {
+        "**8. Data Transfers, Storage and Processing Globally** We operate globally and may transfer your personal information to individual companies of The Walt Disney Family of Companies or third parties in locations around the world for the purposes described in this privacy policy. Wherever your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of your personal information. Additionally, when using or disclosing personal information transferred from the European Union, we abide by the Safe Harbor Principles as set forth by the U.S. Department of Commerce, use standard contract clauses approved by the European Commission, adopt other means under European Union law for ensuring adequate safeguards, or obtain your consent. We also apply the substantive requirements of the Safe Harbor Principles when transferring personal information from Australia.": {
+            "data_transferred_to_unfriendly_countries": true,
+            "data_shared_with_advertisers": false,
+            "data_used_for_AI_training": false
+        }
+    }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "Personal Data for all residents of California pursuant to AB-375 includes a real name, alias, postal address, unique personal identifier, online identifier IP address, email address, account name, Social Security number, drivers license number, passport number, or other similar identifier, Characteristics of protected classifications under California or federal law, Commercial information including records of personal property, products or services purchased, obtained or considered, or other purchasing or consuming histories or tendencies, Biometric information, Internet or other electronic network activity information including, but not limited to, browsing history, search history and information regarding a consumer's interaction with a website, application or advertisement, Geolocation data, Audio, electronic, visual, thermal, olfactory or similar information, Professional or employment-related information, Education information, defined as information that is not publicly available personally identifiable information PII as defined in the Family Educational Rights and Privacy Act 20 U.S.C. section 1232g, 34 C.F.R. Part 99, and Inferences drawn from any of the information identified in this subdivision to create a profile about a consumer reflecting the consumer's preferences, characteristics, psychological trends, preferences, predispositions, behavior, attitudes, intelligence, abilities and aptitudes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use this information for our internal analytics purposes and to improve the quality and relevance of our online services for our visitors, for example, to customize your user experience, tailor your searches and show you advertisements that may be of interest.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use this on the first opening of the App so that we can confirm to our advertising networks the number of downloads resulting from clicks on their respective ad banners and other marketing tools.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Provide you more relevant advertising on and off our Services, including to show you personalized offers and advertising on and off our Services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We share personal information with third-parties in connection with the delivery of services to you and the operation of our business for example, to provide credit card processing, customer service, business analytics, and fraud prevention and compliance services, and to serve you with advertising tailored to your interests.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The third-party provider may combine this information with other information they have about you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Due to the nature of the Internet if you are visiting this Site from a country other than the United States, your communications will inevitably result in the transfer of information across international boundaries.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you provide Personal Data to this Site, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of LEXYL and the affiliates, agents and service providers referred to herein located in the United States and in other countries.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use third-party advertising companies to serve ads when you visit our Website.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These companies may use information not including your name, address email address or telephone number about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The Company may share your personal information to third parties for marketing purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

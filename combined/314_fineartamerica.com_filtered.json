@@ -1,0 +1,16 @@
+[
+  {
+    "Google Analytics collects visitation information via Google advertising cookies and identifiers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For more information about targeting and advertising cookies and how to opt out of those, visit optout.aboutads.info.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

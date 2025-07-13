@@ -1,0 +1,23 @@
+[
+  {
+    "We also may have the following Google Analytics Advertising Features Implemented Demographics and Interest reporting, Remarketing, GDN Impression Reporting and Double Click Campaign Manager.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These features collect data using Google advertising cookies and anonymous identifiers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To learn how to opt-out of the Google Analytics Advertising Features we use, please see Google Analytics currently available opt-outs for the web at httpstools.google.comdlpagegaoptout.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

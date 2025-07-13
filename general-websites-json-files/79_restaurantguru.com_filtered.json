@@ -1,0 +1,86 @@
+[
+  {
+    "The purposes of processing The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests or those of its Users or third parties, detect any malicious or fraudulent activity, as well as the following Analytics, Advertising, Tag Management, Spam and bots protection, Traffic optimization and distribution and Contacting the User.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Detailed information on the processing of Personal Data Personal Data is collected for the following purposes and using the following services Advertising This type of service allows User Data to be utilized for advertising communication purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Some of the services listed below may use Trackers to identify Users or they may use the behavioral retargeting technique, i.e. displaying ads tailored to the Users interests and behavior, including those detected outside this Website.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In addition to any opt-out feature offered by any of the services below, Users may learn more on how to generally opt out of interest-based advertising within the dedicated section How to opt-out of interest-based advertising in this document.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Google AdSense Google Ireland Limited Google AdSense is an advertising service provided by Google Ireland Limited.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This service uses the DoubleClick Cookie, which tracks use of this Website and User behavior concerning ads, products and services offered.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Users may decide to disable all the DoubleClick Cookies by going to Google Ad Settings.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Media.net Media.net Advertising FZ-LLC Media.net is an advertising service provided by Media.net Advertising FZ-LLC.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Place of processing United Arab Emirates Privacy Policy.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Google may use the Data collected to contextualize and personalize the ads of its own advertising network.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Traffic optimization and distribution This type of service allows this Website to distribute their content using servers located across different countries and to optimize their performance.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Considering the widespread distribution of this system, it is difficult to determine the locations to which the contents that may contain Personal Information of the User are transferred.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

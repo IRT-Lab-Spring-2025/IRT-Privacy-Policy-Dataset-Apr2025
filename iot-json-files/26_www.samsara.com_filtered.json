@@ -1,0 +1,30 @@
+[
+  {
+    "To facilitate our global operations, and in accordance with applicable laws, we may transfer your personal data to, and access your personal data from, our offices, subsidiaries, affiliates and service providers in the various countries in which we or they operate including the United States of America.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This may be to a country other than the one in which it was provided or collected.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These can be used for analyzing trends, administering our websites, your communications with us, tracking users movement and behavior on our websites, and gathering information about our user base such as location information on IP addresses, displaying advertising on our websites, and to manage our advertising on other sites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use them to support our business andor collaborate with e.g., analytics, advertising, email, teleconference, and collaboration service providers and partners, provided that they are generally bound by contractual obligations to keep such personal data confidential and only use it for the purposes of providing the services for, or with, us based upon your interaction with us e.g., attending events andor signing-up for our newsletters.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

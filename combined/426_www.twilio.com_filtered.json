@@ -1,0 +1,65 @@
+[
+  {
+    "International Data Transfers As a global organization, we may need to transfer your personal data to Twilio affiliates, contractors, service providers and third parties in various countries and jurisdictions around the world.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Data Transfers to the United States and Elsewhere When you use our account portal, or our other Services, your personal data may be transferred to the United States, where our primary processing facilities are located, and possibly to other countries where we or our service providers operate.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Twilios Binding Corporate Rules Twilio has established and implemented a set of Binding Corporate Rules for internal transfers of personal data between Twilio Group Members in the European Union and Twilio Group Members elsewhere as a data controller.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Where neither the EU-U.S. DPF, the UK extension to the EU-U.S. DPF, Swiss-EU DPF nor Twilios BCRs apply, we rely instead on other data transfer mechanisms to transfer personal data outside the EEA, the UK, and Switzerland, such as Standard Contractual Clauses and the UKs International Data Transfer Agreement.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Also, as described in the How We Use Cookies & Other Tracking technologies section below, we process personal data to deliver ads targeted to your interests on other companies websites and mobile apps.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Some of these activities may be considered sharing or targeted advertising under certain laws.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You have the right to opt out of the processing of your personal data for targeted advertising, and can do so by adjusting your preferences using our Cookie Preferences Tool located on the bottom right of the Twilio website you are visiting.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Opt Out of Advertising Cookies To learn more about how to opt out of targeting and advertising cookies, you can go to the Your Online Choices page, the Network Advertising Initiative page, and the Digital Advertising Alliances Consumer Choice page.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Voice Intelligence Voice Intelligence incorporates artificial intelligence and machine learning to transcribe and analyze voice calls into a structured format that allows our customers to drive their business processes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  }
+]

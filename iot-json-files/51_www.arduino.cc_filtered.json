@@ -1,0 +1,16 @@
+[
+  {
+    "When such providers operate from a third country, your data is transferred to them on the basis of standard contractual clauses in compliance with the decision of the European Commission relating to data protection clauses or by virtue of the decisions of the European Commission relating to the level of data protection in such countries.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For more information on the recipients of the personal data of the person exercising parental authority, on any transfers outside the EU of such personal data as well as to know the rights recognized to data subjects under the GDPR, please see the previous sections of our Privacy Policy.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

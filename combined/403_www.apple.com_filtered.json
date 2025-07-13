@@ -1,0 +1,44 @@
+[
+  {
+    "To power features such as search and as a source for our foundational AI models, Apple uses Applebot, a web crawler, to crawl information that is publicly available on the internet.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "For research and development purposes, we may use datasets such as those that contain images, voices, or other data that could be associated with an identifiable person.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "Other Cookies: These cookies are used to understand how visitors interact with our websites and online services, including by helping us to assess the effectiveness of advertisements and web searches.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "On your iOS, iPadOS, or visionOS device, you can disable Personalized Ads by going to Settings > Privacy > Security > Apple Advertising and tapping to turn off Personalized Ads.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For the purposes of processing set out in this Privacy Policy, Apple may also transfer such personal data to third-party service providers, who may in turn store or transfer the data outside of the People's Republic of China.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For more information, visit China Mainland Privacy Disclosures.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

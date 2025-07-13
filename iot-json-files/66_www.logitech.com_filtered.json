@@ -1,0 +1,51 @@
+[
+  {
+    "We may collect data in a variety of ways to improve our products and services, including through your interactions with our products, website and services, as well as to deliver personalized advertising and communications based on your interests.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In particular, we may use data from our websites to provide the service or carry out the transactions at your request improve and develop our products personalize your experience process job applications you submit through our Sites advertise and market to you based on your consent or our legitimate interests, subject to applicable legal requirements, which may include sending promotional communications, targeted advertising, and presenting you with relevant offers via email, SMS, push notifications and personalized website experiences.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may share your personal data with third parties including advertising partners under certain circumstances for the Promotions and Relevant News function as listed in the table below.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We also use and share aggregated and pseudonymous information for performance, analytics, and social network marketing purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may use third party advertising platforms, such as Facebook, Google, YouTube, and others, to display personalized advertisements, promotions, and offers that might interest you Contact Data, Account Data Consent.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Personal data collected by us may be stored and processed in the United States or in any other country we or our affiliates or service providers maintain facilities.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In limited circumstances we share your personal data for advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "Profile information - Inferences drawn from any of the information above to create a profile about you These may reflect your preferences, characteristics, and behavior.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may use your Commercial Information in connection with artificial intelligence technologies to generate personalized features for your business.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "Online Tracking and Interest-Based Advertising While we do not sell personal information as that term is commonly understood, we have, sold or shared over the last 12 months Usage Data for the purpose of interest-based advertising or targeted advertising as described below.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can exercise your right to opt-out of targeted advertising by clicking the Do Not Share My Personal Information link in the footer of any page on our browser site, or by enabling the Global Privacy Control or a similar opt-out preference setting within the browser you use to access our website.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Consistent with local law, we and our advertising partners may collect information about your activities on our website.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use this information to advertise to you and to tailor our products and services to your interests.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You may see certain ads on other websites because we use third-party services to advertise our services to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use these services to target our ads to you and others based on your demographics, interests, and context.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These third party ad services track your online activities over time and across multiple websites by collecting your information through automated technologies, including third-party cookies, web server logs, and web beacons.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The ad services use this information to show you Square ads that may be tailored to your individual interests.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The information our ad services may collect on our behalf includes data about your visits to websites that serve Square ads, such as the pages or ads you view and the actions you take on those websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This data collection takes place both on our online services, and on third-party websites that serve our ads to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This process also helps us figure out if our ads to you are effective.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Some of these technologies may also be set by third parties that help us advertise our products and services to you as informed by your interests, based on information collected from your activity on the web, including but not limited to, browsing or purchasing products on or through our websites or on third party websites or your activity on mobile sites and applications.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This advertising approach is called interest-based advertising or targeted advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Within mobile applications, you may also go to your device settings and select Limit Ad Tracking for iOS devices, or Opt out of Interest-Based Ads for Android devices, which will allow you to limit our use of information collected from or about your mobile device such as precise location data for the purposes of serving online behavioral advertising to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can also opt out of receiving interest-based ads from third party advertisers who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance's (DAA) Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt out pages on the NAI website and DAA website.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Please also see the Your Choices section for other ways to opt-out of interest-based or targeted advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "International Data Transfers We operate in many countries, and we or our service providers may move your data and process it outside the country where you live.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We are unable to specify all possible jurisdictions Personal Data of users of Square services in Japan would be transferred or stored, as service providers use multiple servers located in multiple jurisdictions and do not disclose all of these locations for security reasons.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

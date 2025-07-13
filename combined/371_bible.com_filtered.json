@@ -1,0 +1,16 @@
+[
+  {
+    "These third parties may place their own cookies or other files on your computer, collect data, or solicit personal information from you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These third parties may use this information to provide you with interest-based behavioral targeted content.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

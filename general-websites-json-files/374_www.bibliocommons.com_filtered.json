@@ -1,0 +1,16 @@
+[
+  {
+    "Personal Information may be stored or processed in any jurisdiction in which we or our affiliates, suppliers, subsidiaries or agents maintain facilities.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "By supplying the Controller with Personal Data, you consent to any transfer of this information to other jurisdictions including countries which have not been assessed for adequacy of privacy laws.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

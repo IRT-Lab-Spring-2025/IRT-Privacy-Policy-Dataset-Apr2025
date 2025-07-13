@@ -1,0 +1,51 @@
+[
+  {
+    "Your data may be transmitted to third parties for certain purposes, such as to complete your current order or to third parties who assist Neiman Marcus with its marketing efforts, subject to applicable data privacy laws.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Neiman Marcus may partner with select vendors to market goods and services to you based on your preferences.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Neiman Marcus partners with advertising companies to place our advertising on publisher websites on the Internet.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These advertising companies collect anonymous information about your visits to our web site.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This technology involves the use of third-party cookies which allow them to develop personalized advertising that directly relates to offers that may be of interest to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use third party retargeting and remarketing features on our website.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These technologies allow us to address internet users who previously visited the site with personalized advertising on our partner websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

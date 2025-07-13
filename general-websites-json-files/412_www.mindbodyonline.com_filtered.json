@@ -1,0 +1,51 @@
+[
+  {
+    "Those sources include Data from your device through settings you activate Other location sources IP address We collect and use this location-related data in order to Provide you with services you have purchased or requested Deliver content that is relevant to you based upon your location Deliver marketing or ad content that is relevant to you based on your location Protect against abuse or misuse of services or of your account Improve our site and services You may disable the collection and use of your location data through your browser-, operating system- or device-level settings.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To share information with other marketers and their service providers to permit them to send you marketing communications, consistent with your choices.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To third parties to permit them or their own customers to send you marketing communications, consistent with your choices.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We only share your Personal Information with unaffiliated third-parties for their marketing purposes when you have consented to the sharing.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Your Personal Information may be stored and processed in any country where we have facilities, namely the United States and the United Kingdom, or in which we engage service providers, and by using the Mindbody Services you understand that your information will be transferred to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country and whose laws dont provide the same level of protection as in the European Economic Area EEA or UK.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For transfers from the EEA and Switzerland to countries not considered adequate by the European Commission the United States we have put in place adequate measures, such as the applicable modules of the standard contractual clauses based on the standard contractual clauses for the transfer of personal data to third countries pursuant to Regulation EU 2016679 as amended or replaced from time to time by a competent authority under the relevant data protection laws and published here, a copy of which can be obtained by contacting us, as set forth in Section 22 below the Standard Contractual Clauses.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For transfers from the United Kingdom to countries not considered adequate by the Commissioner, we have put in place the relevant UK Standard Contractual Clauses as amended by the Commissioner for the UK data protection laws and published here.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

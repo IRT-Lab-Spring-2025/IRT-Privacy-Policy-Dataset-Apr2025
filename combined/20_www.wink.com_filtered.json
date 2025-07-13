@@ -1,0 +1,65 @@
+[
+  {
+    "If you are located in the European Union or other regions with laws governing data collection and use that differ from United States law, please note that we may transfer information, including Personally Identifiable Information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "By using the Services you consent to the transfer of information to the United States or to any country in which Wink maintains facilities and the use and disclosure of information about you as described in this Agreement.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These technologies help us better understand user behavior, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Wink uses third-party advertising services to serve Wink ads when you visit the Site and sites upon which we advertise often referred to as online network advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This advertising technology uses information about your visits to this Site and the sites upon which we advertise not including your Personally Identifiable Information to serve Wink ads to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In the course of serving Wink advertisements to you, a unique third-party cookie may be placed or recognized on your browser.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "At the date of last revision of this Privacy Policy, you may manage and opt out of third-party cookie-based advertising by visiting http://www.networkadvertising.org/choices.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These cookies provide you with advertisements based on your internet activity.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You grant to Company a royalty-free, worldwide, fully paid-up, perpetual, irrevocable, non-exclusive, sublicensable right and license to exercise any copyright, publicity, and database rights you may have in User Content you provide in the reviews sections of the Site including without limitation, your name, voice, image, likeness, and representations made by you, in any media now known or not currently known including, without limitation, television, print, radio and the Internet, world-wide, for the purposes of advertising, promoting, reporting and disseminating information about the Company or the Companys business, services and products.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

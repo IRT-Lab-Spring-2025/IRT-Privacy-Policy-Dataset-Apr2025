@@ -1,0 +1,16 @@
+[
+    {
+        "**How We Use Demographic Information** We use demographic information to tailor the Site and communications to the interests of our users. We may share anonymous, aggregated (i.e. grouped) demographic information with third parties (such as grant making organizations and foundations), so that they can tailor their advertisements and communications to the appropriate audience.": {
+            "data_transferred_to_unfriendly_countries": false,
+            "data_shared_with_advertisers": true,
+            "data_used_for_AI_training": false
+        }
+    },
+    {
+        "Note, your information may be transferred to and maintained on computer networks which may be located outside of the state, province, country, or other governmental jurisdiction in which you reside, and the country or jurisdiction in which these computer networks are located may not have privacy laws as protective as the laws in your country or jurisdiction.": {
+            "data_transferred_to_unfriendly_countries": true,
+            "data_shared_with_advertisers": false,
+            "data_used_for_AI_training": false
+        }
+    }
+]

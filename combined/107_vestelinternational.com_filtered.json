@@ -1,0 +1,51 @@
+[
+  {
+    "As part of the processing of your personal data, we may transfer your personal data to trustworthy service providers or affiliated companies in third countries.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If we transfer personal data to third countries, we do so on the basis of a so-called adequacy decision of the European Commission or, in the absence of such a decision, on the basis of so-called standard data protection clauses which have also been adopted by the European Commission.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Please note that using the tools might include transfer of your data to recipients outside of the EEA where there is no adequate level of data protection pursuant to the Law e.g. the USA.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Also in that third there might not be a supervisory authority andor data processing principles andor data subject rights might not be provided for in the third country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Please note that using the tools might include transfer of your data to recipients outside of the EEA where there is no adequate level of data protection pursuant to the GDPR e.g. the USA.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you activate the plugin, data will be transmitted to Google and the Google DoubleClick advertising network contacted.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To find out more about the scope and purpose of Google Maps activities to collect, further process, and use data, about possible transfers of personal data to third countries such as the United States, about your rights and the data protection options available to you, please consult Googles privacy policy httpswww.google.deintldepoliciesprivacy.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

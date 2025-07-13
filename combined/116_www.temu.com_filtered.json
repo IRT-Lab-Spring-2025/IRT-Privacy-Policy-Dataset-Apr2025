@@ -1,0 +1,72 @@
+[
+  {
+    "These cookies are either necessary and required to provide our Service for example, the cookies we use to display products relevant to your language and location or optional for example, the cookies used to track and measure the advertisements shown to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Interest-based advertising: We, our service providers, and our third-party advertising partners may collect and use your personal information for interest-based advertising purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In providing interest-based advertising, we follow the Self-Regulatory Principles for Online Behavioral Advertising as set forth by the Digital Advertising Alliance DAA, which is an advocacy organization for responsible digital marketing and consumer privacy.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can learn more about interest-based advertising and your opt-out choices here.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "While Temu shares your personal information for the purposes of targeted advertising, which may be considered a sale under applicable U.S. state privacy laws as described further in the Privacy Policy Addendum for U.S. Residents, Temu does not sell personal information in the traditional sense.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Advertising and analytics partners: We may share your personal information with third-party advertising, marketing, and analytics companies for the interest-based advertising and analytics purposes described in our Cookie and Similar Technologies Policy.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Certain of these disclosures to third parties are known as sharing or processing your personal information for targeted advertising, but sharing may be considered selling your personal information under applicable law.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Business and marketing partners: We may share your personal information with third parties with whom we collaborate in order to offer or promote the Service.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For example, depending on your communication preferences, we may share your personal information with third-party service providers with whom we have partnered in order to send you marketing SMS and email messages.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "As a global one-stop shopping destination, Temu may need to engage service providers in other countries and share your personal information with them for certain purposes, such as order fulfillment.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

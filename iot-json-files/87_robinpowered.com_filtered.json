@@ -1,0 +1,30 @@
+[
+  {
+    "To further automate your workplace experience we may use your data to help leverage the latest technical advances in AI modeling.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "We may also disclose your information as follows: Requested Third Parties: Our Service may present options to receive certain information or marketing from third parties.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Note, however, personal information stored or processed outside of Canada, including in the US or another foreign country, may not be subject to the PIPEDA.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In addition, personal information stored or processed outside of Canada is subject to the laws of that other country and may be available to the foreign government of the country in which the personal information or the entity controlling it is located pursuant to a lawful order in that jurisdiction.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

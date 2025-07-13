@@ -1,0 +1,30 @@
+[
+  {
+    "Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The primary purpose is to tailor and optimize marketing strategies, offering users relevant promotions based on their browsing behavior.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

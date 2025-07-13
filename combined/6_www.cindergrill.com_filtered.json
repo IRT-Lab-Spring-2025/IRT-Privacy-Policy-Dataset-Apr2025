@@ -1,0 +1,23 @@
+[
+  {
+    "You can opt out of targeted advertising by using the links below - Facebook httpswww.facebook.comsettings?tabads - Google httpswww.google.comsettingsadsanonymous.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Does our site allow third-party behavioral tracking?We do allow third-party behavioral tracking.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

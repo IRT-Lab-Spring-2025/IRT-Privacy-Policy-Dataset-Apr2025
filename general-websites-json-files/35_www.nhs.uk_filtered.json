@@ -1,0 +1,23 @@
+[
+  {
+    "Social networks use information about your online activity to build a profile of you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This data is then used anonymously to send you targeted adverts across various digital platforms.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You should be aware that interacting with health-related accounts such as ours may help build the profile of you that social networks maintain, and could potentially result in you receiving adverts related to health issues.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

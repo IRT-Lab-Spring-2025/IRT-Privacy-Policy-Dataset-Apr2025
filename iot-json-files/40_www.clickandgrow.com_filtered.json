@@ -1,0 +1,30 @@
+[
+  {
+    "Device Information from Google Analytics may also be used by Google Ads service to make ads more relevant for you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Only when you have agreed to it, the Site stores cookies that are used for targeted advertisements or marketing communications that may be of interest to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can opt out of targeted advertising by using the links below Facebook httpswww.facebook.comsettings?tabads Google httpswww.google.comsettingsadsanonymous Bing httpsadvertise.bingads.microsoft.comen-usresourcespoliciespersonalized-ads Pinterest httpshelp.pinterest.comenarticlespersonalization-and-data LinkedIn httpswww.linkedin.comhelplinkedinanswer62931manage-advertising-preferences TikTok httpswww.tiktok.comsafetyenads-and-data.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliances opt-out portal at httpsoptout.aboutads.info.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

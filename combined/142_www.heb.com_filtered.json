@@ -1,0 +1,93 @@
+[
+  {
+    "To personalize the advertisements and marketing that you see on our websites or on other third-party platforms and websites, including for interest-based advertising purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To train our artificial intelligence or machine learning algorithms or models or those provided by our service providers for our business purposes and to improve our Services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "As we believe to be necessary or appropriate, we may disclose your Personal Information a under applicable law, including laws outside your country of residence b to comply with legal process c to respond to requests from public and government authorities, including public and government authorities outside your country of residence d to enforce our terms and conditions e to protect our operations or those of any of our affiliates f to protect our rights, privacy, safety or property, and/or that of our affiliates, you, or others, including against or in response to security incidents, identity theft, fraud, harassment, malicious or deceptive activities, or illegal activity g preserve the integrity and security of our systems, including investigating, reporting or prosecuting those responsible for breaches of the security of our systems and h allow us to pursue available remedies or limit the damages that we may sustain.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may share with or make available limited personal information to ad tech companies and other online providers of services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may use analytics services and third-party ad servers and providers, including Adobe Analytics.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We also work with third-parties to serve ads to you as part of customized campaigns on third-party platforms such as Google and Facebook.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and mobile apps.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This information is used to deliver advertising targeted to your interests on other companies sites or mobile apps and to analyze and track data, determine the popularity of certain content, and better understand your online activity.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "As part of these ad campaigns, we or the third-party platforms may convert information about you, such as your email address and phone number, into a unique identifier that can be matched with a user account on these platforms to allow us to learn about your interests and serve you advertising that is customized to your interests.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can learn more about interest-based ads by visiting www.aboutads.infochoices.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Some of the activities described in this section may constitute targeted advertising or selling under certain applicable privacy laws.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To learn more about the choices available to you with respect to these practices, including to opt out of targeted advertising or sale, see the H-E-B Consumer Privacy Request Portal to opt out of non-cookie-based targeted advertising or click on the Your Privacy Choices link in the footer of our web pages to opt out of cookie-based targeted advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You may request that we not sell your Personal Information or use your Personal Information that we hold about you for targeted advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

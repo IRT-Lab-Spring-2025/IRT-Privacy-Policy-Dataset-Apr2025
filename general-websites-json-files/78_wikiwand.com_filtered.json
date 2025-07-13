@@ -1,0 +1,23 @@
+[
+  {
+    "We may use subcontractors that are located in countries other than your own, and send them information we receive.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For example, we may send your information to any countries outside the United States, Canada or the European Union.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Nevertheless, some countries may have levels of protection of personal and other information which are not as high as in your country of residence or business.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

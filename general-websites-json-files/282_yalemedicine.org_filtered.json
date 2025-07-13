@@ -1,0 +1,30 @@
+[
+  {
+    "Facebook Our site uses Facebook Pixel to assess the effectiveness of related Facebook ad campaigns.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Reddit Our site uses Reddit Pixel to assess the effectiveness of related Reddit ad campaigns.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Outbrain Outbrain is a service we use to show relevant ads about Yale Medicine to users browsing the web.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Those third-party services, including YouTube API Services, may display advertisements and/or collect data about your usage of their services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

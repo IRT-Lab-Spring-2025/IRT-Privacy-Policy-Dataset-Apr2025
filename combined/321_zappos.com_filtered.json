@@ -1,0 +1,30 @@
+[
+  {
+    "Cookies also allow our systems to recognize your device and to provide features such as recently viewed items, brand recommendations, and personalized Zappos advertisements on other websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Examples include, but are not limited to, fulfilling orders, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links including paid listings and links, processing credit card payments, providing customer service, storing data, and serving ads on our behalf.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Sometimes we send offers to selected groups of Zappos.com customers in collaboration with other businesses.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Zappos may utilize interested-based advertising also known as personalized ads or targeted ads on both Zappos-owned and operated websites and unaffiliated sites, and such ads may be displayed to you by these third party service providers based on information from activities such as purchasing products online including from Zappos.com or visiting third-party websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

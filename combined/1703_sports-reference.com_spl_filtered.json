@@ -1,0 +1,9 @@
+[
+    {
+        "Subject to the limitations of Paragraph 4, aggregate data on visitors' home servers may be provided to third parties such as marketing firms.": {
+            "data_transferred_to_unfriendly_countries": false,
+            "data_shared_with_advertisers": true,
+            "data_used_for_AI_training": false
+        }
+    }
+]

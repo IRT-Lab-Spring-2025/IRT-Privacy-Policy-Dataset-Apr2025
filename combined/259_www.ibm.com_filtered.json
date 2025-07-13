@@ -1,0 +1,86 @@
+[
+  {
+    "These reports may be provided to third parties with details on how users interacted with or showed interest in the third-party products or services that were presented on our websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We also use this information to personalize your online experience with our content and advertisements and to develop internal marketing and business intelligence.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Received from third-party data providers, subject to controls confirming that the third party legally acquired the information and has the right to provide the information to IBM for use in our marketing communications.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Deliver targeted IBM advertisements on third-party websites based on information we or authorized third parties collect about your interactions with IBM websites, our content, emails, or, in select geographies, activity linked to your hashed email address.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To opt out of the use of your hashed email for personalization or targeted advertising, you can withdraw your email consent by using any of these options.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use advertising partners to provide and assist in the use of such technologies on IBM and other sites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "All of these technologies may be used to provide connected features across our websites or display targeted IBM advertising subject to your cookie preferences on other websites based on your interests.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may share personal information with third parties, such as advertising technology partners, data analytics providers and social networks engaged by IBM to deliver targeted IBM advertisements on their platforms, to aggregate information for analysis, and to track engagement with those advertisements.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Your personal information may be transferred to or accessed by IBM subsidiaries and third parties globally.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "IBM may also make such AI models and systems available under separate terms.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "IBMs AI models and systems are designed, trained, validated, and tested on data from publicly available sources that may incidentally contain Personal Information.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "In addition, other cookies may be used with your consent to analyze site usage, improve the user experience and for advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

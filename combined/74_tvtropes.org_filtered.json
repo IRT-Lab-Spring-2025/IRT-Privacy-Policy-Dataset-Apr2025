@@ -1,0 +1,65 @@
+[
+  {
+    "When you use our website, we share information that we may collect from you, such as your email in hashed form, IP address or information about your browser or operating system, with our partnerservice provider, LiveRamp Inc and its group companies LiveRamp.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "LiveRamp may use our first party cookie on your browser to match your shared information to their marketing databases in order to provide back a pseudonymous privacy-centric identifier for our use in real time bidding in digital advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These third parties may in turn link further demographic or interest-based information to your browser.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Aggregate cookie and tracking information may be shared with third parties.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The DoubleClick DART cookie is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The data gathered from these cookies will be used to help better serve and manage ads on the publishers sites and across the web.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Third party vendors, including Google, use cookies to serve ads based on a users prior visits to the wiki.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Googles use of the DART cookie enables it and its partners to serve ads based on visits to the wiki andor other sites on the Internet.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Users may opt out of the use of the DART cookie by visiting the advertising opt-out page.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

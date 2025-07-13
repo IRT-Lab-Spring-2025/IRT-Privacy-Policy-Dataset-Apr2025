@@ -1,0 +1,16 @@
+[
+  {
+    "We may share your information with third parties for marketing purposes, as permitted by law.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may share your information with our business partners to offer you certain products, services, or promotions.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

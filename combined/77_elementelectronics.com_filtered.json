@@ -1,0 +1,65 @@
+[
+  {
+    "We may use these technologies to Enable you to more easily use our web-based Services by remembering and using contact information, purchasing information, and registration information Provide you with personalized content based on your use of our Website Evaluate, monitor, and analyze the use of our web-based Services and its traffic patterns to help improve our web-based Services Assist us with ad reporting functions, such as to learn which ads are bringing users to our Website.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Advertisers and third-party service providers may use Flash cookies to collect and store information.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Such third-party social networking services may allow your activity to be monitored across multiple websites for purposes of delivering more targeted advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This may result in unsolicited messages from third parties or use of such information by third parties for their own purposes, legal or illegal.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Third party advertisers may use web beacons, watermarks, and other such technologies in their ads in order to collect information about users who view their ads.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Some of these companies participate in industry-developed programs designed to provide consumers with choices about whether to receive targeted advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Your viewing history and Smart TV usage information for the purposes of providing interest-based marketing may be linked to a randomized, non-persistent and resettable device identifier called the Personalized Service ID or PSID.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "However, if you reset your PSID, the quality of customized and interest-based advertisements may not be fine-tuned.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In addition, Element and third-party providers of the Voice Recognition services may collect, and your device may capture, voice commands and associated texts so that we can provide you with Voice Recognition features and evaluate and improve the features.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  }
+]

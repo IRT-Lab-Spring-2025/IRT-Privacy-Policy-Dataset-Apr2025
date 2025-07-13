@@ -1,0 +1,37 @@
+[
+  {
+    "In addition, when you visit the Site while logged into one of those services, that service might be able to identify you and associate the Technical Information with other information the service already has about you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Finally, we may also share de-identified aggregate information with third parties and advertisers so they can measure the effectiveness of any advertisements viewed in connection with our Sites and understand their audiences.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For example, we may tell advertisers the number of users who clicked on a particular advertisement.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We also use Technical Information to customize our infrequent newsletters, as well as advertising and Site content based on browser type and user profile information.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "But, some of the advertising is delivered by third-party Internet advertising companies also called ad networks or network advertisers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

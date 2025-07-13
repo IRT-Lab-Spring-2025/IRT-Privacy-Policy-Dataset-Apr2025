@@ -1,0 +1,30 @@
+[
+  {
+    "To update, expand, and analyse our records and create more tailored advertising to provide services that may interest You.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "8.4.3 You can request Us to disclose a Your Personal Information Sold or Shared and b the service provider or contractor, or a third-party as defined in the CPRA to whom such information is Sold or Shared.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We also set cookies to collect information that is used either in aggregate form to help Us understand how our Websites are being used or how effective Our marketing campaigns are, to help customise the Websites for You or to make advertising messages more relevant to You.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Notwithstanding anything to the contrary in these Terms, AllEvents may collect and use query logs, and any data relating to the operation, support, and/or about the Organiser's or User's use of the Platform, AllEvents websites, Usage Data to develop, improve, support and operate its Platform.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  }
+]

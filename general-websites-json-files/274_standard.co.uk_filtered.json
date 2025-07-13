@@ -1,0 +1,100 @@
+[
+  {
+    "We may also match your cookie data with this third party data, and aggregate this data into interest-based segments or profiles which we use to develop our products, or serve you more relevant advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Sometimes we share these segments with other publishers so they can show you advertising on their websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We can also pool these segments with those from other publishers so that advertisements can be shown across multiple websites to readers whilst limiting the number of times you see the ads.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "With your consent, we will share your IP address and first party cookie with Experian who will use it to carry out data profiling by linking your IP address and first party cookie with their own IP address database, and in turn, to one or more of the predictive models they have created.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "Experians predictive models are created using data from various data sources including public data sources and are used to try to predict behaviour and preferences e.g. how likely you are to buy a holiday online or take a particular type of holiday or likely circumstances e.g. Experians model might predict you are a city dweller and therefore less likely to be interested in gardening.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "Experian will not share the details we provide to them about you with any third party but will use and store it primarily to help us better understand the likely characteristics of visitors to our websites us improve the relevancy and appropriateness of the advertisements we display to you when you visit our websites and Experian to link identifiers with the same IP address together for the purposes of applying their predictive models.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Personalising the advertising you see on the website so that it is more relevant to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This includes the use of data provided by you and our partners for profiling purposes in order to generate revenue from you so we can improve our products and services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Advertisers and advertising networks sometimes require data to select and serve relevant advertisements to you and others.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may provide them with aggregate cookie information about our users with certain attributes for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may also use such aggregate information to help advertisers reach the kind of audience they want to target for example, women in the UK who are interested in travel.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We share cookie data with other publishers via a secure data management platform when advertising campaigns are served across multiple news websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These publisher partners are not able to access this data themselves, only serve the advertisements across their own websites to readers whose cookie data form part of the selected advertising segments.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You should be aware that by using the website and those of our partners or any website we link through to, your personal data may be processed in or transferred to other countries, the USA for example, and you agree to your personal data being transferred or processed in this way.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

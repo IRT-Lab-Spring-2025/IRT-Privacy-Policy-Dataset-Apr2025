@@ -1,0 +1,23 @@
+[
+  {
+    "Disclosed to Categories of Third Parties: Advertising and analytics partners, social media platforms, sweepstakes/contests partners, order fulfillment vendors, technology systems service providers, security vendors/service providers, communications services providers, customer service providers, government agencies and law enforcement where required by law, third parties in connection with court or other legal actions, third parties in connection with business transactions, third parties to whom you agree or direct us to share your data, other service providers use your data solely to provide services to us or to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Disclosure to third parties for advertising purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Your personal information may be stored in other countries.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

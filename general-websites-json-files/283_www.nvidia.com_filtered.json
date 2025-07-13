@@ -1,0 +1,156 @@
+[
+  {
+    "We share your request and contact information with business partners so they can communicate with you about relevant products or services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We share your email address and phone number with Google to assess the effectiveness of our internet advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you have consented to receive marketing communications or recommendations, we share obfuscated hashed information about you with third-party ad providers such as Google to serve interest-based ads to you and others.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "When you use an ad-supported GeForce NOW plan, in addition to the installation and feature data described above, we collect your birth date, language, country, IP address, and details of how you are viewing advertisements e.g., duration, screen orientation.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use this data on ad-supported GeForce NOW plans to provide interest-based advertising, for fraud prevention, and to limit the repetition of advertisements.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We process data for interest-based advertising based on your consent to use an ad-supported GeForce NOW plan, and based on our legitimate interest in delivering an ad-supported GeForce NOW plan.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you do not wish to have this data processed for interest-based advertising, please select a premium plan of GeForce NOW or opt-out of interest-based advertising in our Privacy Center.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you use an ad-supported GeForce NOW plan, we share your age range, language, country, and IP address with advertising providers to deliver interest-based ads and for the purposes of fraud prevention and to limit the repetition of advertisements.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We share this information with business partners so they can communicate with you about relevant products or services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We also share this information with identity enrichment providers such as 6Sense or Leadspace to obtain additional details e.g., title, associated industries about you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For Autonomous Vehicle AV and Artificial Intelligence AI Research and Development AV and AI technologies require access to large volumes of high-quality data to learn how to perceive, classify, and navigate among people, objects, and scenes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "We collect public images and other data through sensors on NVIDIA or partner-identified vehicles and in clearly disclosed public spacesas well as datasets collected by othersto improve the safety and reliability of our AV and AI models.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "We use this data to train our AV and AI models to perform safely and reliably, including to accurately classify or generate images, audio, video, or text, or to navigate public roads or other spaces.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "This data is used exclusively for the purposes of AV and AI projects and is not used or connected to personal data for our other products and services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "We sometimes share this data with third-party vendors supporting our technology or with business partners that are also developing AV and AI technology.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "However, our sharing of non-sensitive data with advertising providers may qualify as the sale of personal data or the sharing of personal data for purposes of targeted advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you've consented to receive marketing communications or recommendations, we share hashed details about your identity with third-party ad providers such as Google to serve interest-based ads to you and others.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Sharing information in hashed form means that third-party ad providers can only identify you if they already have the information we have shared and have hashed it themselves to match the hashed version we are sharing.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can opt out of data sharing for interest-based advertising at any time by visiting our Privacy Center or by enabling an opt-out preference signal.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If an account holder under the age of 18 uses an ad-supported GeForce NOW plan, we share the account holders IP address, country, platform, and game title for purposes of fraud prevention and ad frequency capping.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We also share this information as well as age range for purposes of interest-based advertising if the account holder is 16 or older.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We retain data collected from public spaces for as long as it continues to support our AV and AI projects.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  }
+]

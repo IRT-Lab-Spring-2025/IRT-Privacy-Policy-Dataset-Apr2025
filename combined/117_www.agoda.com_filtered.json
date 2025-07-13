@@ -1,0 +1,72 @@
+[
+  {
+    "We may use cookies and similar technologies to help provide our Site, understand and customize your preferences, and display relevant advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you are making a reservation on our dedicated Umrah landing page, then as part of processing your travel reservations and facilitating your visa application with the respective Government authorities in the Kingdom of Saudi Arabia including the Ministry of Hajj and Umrah, and the Ministry of Foreign Affairs - we may collect, store, process and disclose additional personal data of yours consisting of the passport numbers, nationality, flight details and date of birth for each guest under a reservation made on the landing page as well as the email address and telephone number of the lead guest.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Such personal data is required to process both the travel reservations and visa application which is processed and approved by the respective ministries, and in order for the ministries to receive your visa application, your personal data will be disclosed through the ministries service provider, based in the Kingdom of Saudi Arabia.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Such personal data is required to process both the travel reservations and to meet the eligibility requirements imposed by the Thai government.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Maintain and improve the Site, tailor the user experience including indicating/providing advertisements about products and services of Agoda or third parties that may be relevant to users or that users may be interested in, and for internal training.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "As further described in our Terms of Use, we may deploy tools in providing and seeking to improve and develop our services that utilise algorithms and machine learning including predictive analytics tools and tools deploying generative AI algorithms to create new content.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "We may share on-way hashed information with third-party partners who may combine hashed information with other identifiers to facilitate the delivery of business analytics on advertising effectiveness.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We will maintain the confidentiality of your information, but may provide or transfer your information to third parties as detailed above under Sharing Your Information section, which may include transferring your information to persons to whom we are required to make disclosures to under applicable law within or outside China.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may transfer personal data outside of the Kingdom of Saudi Arabia.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In connection with the purposes described above, your information may be stored in locations outside of your home country, which may have different standards of data protection than your home country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

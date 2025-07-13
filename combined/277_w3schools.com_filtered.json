@@ -1,0 +1,93 @@
+[
+  {
+    "We fund the Website by showing adverts to our Free Users as you browse the Website.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use your information to personalize and enhance our marketing efforts.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use your personal information to provide you with targeted advertisements or marketing communications that we believe may interest you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These ads are managed by partners who specialize in advertising across multiple websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "They collect anonymous data about the websites you visit to personalize ads for you, ensure you dont see the same ads too frequently, and report to advertisers on which ads are effective.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For more information about targeted advertising, visit the Network Advertising Initiatives NAI educational page at httpwww.networkadvertising.orgunderstanding-online-advertisinghow-does-it-work.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We share your information with partners who specialize in advertising across multiple websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This sharing allows us to personalize your experience and provide you with targeted advertisements.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use sub-processors for this purpose you can review their Privacy Policy here Google Privacy Policy Snigel Privacy Policy Buy Sell Ads Privacy Policy Refinery 89 Privacy Policy Opting Out of Targeted Advertising W3Schools Manage Consent Digital Advertising Alliance httpoptout.aboutads.info Your Online Choice httpswww.youronlinechoices.com.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Note Opting out will not turn off ads it will only stop them from being tailored to your interests.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "W3Schools may store, process, and transmit your information outside your country of residence to provide the Website and the Services.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These countries may have different data protection laws.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "They might not offer the same level of protection as your country or the country where you initially provided the information.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

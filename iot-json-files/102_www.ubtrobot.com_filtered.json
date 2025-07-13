@@ -1,0 +1,37 @@
+[
+  {
+    "We store the data of this website on servers in Hong Kong, China.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Currently, we have servers in countries such as China, the United States, Singapore, and Hong Kong, based on business expansion.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may transfer your personal information overseas when it is permitted by law and necessary measures are taken.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may also transfer your personal information to third-party service providers and business partners, so your information may also be transferred to other countries or regions.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These jurisdictions may have different personal information protection standards and may pose different risks under different data protection laws.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "We may also authorize third-party vendors to collect information on our behalf, including information necessary for us to operate the features of our website or to facilitate the delivery of online advertising tailored to your interests.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may share your personal information by selling it to third parties, subject to your right to opt-out of those sales.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In the preceding 12 months, we may have sold online identifiers to advertising service providers to allow us to personalize the adverts that we show you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Advertising cookies. These allow us to personalize the adverts that we show you and that you see across the internet.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "3.1 International transfers of personal data Your information may be transmitted through, stored or processed in countries other than your home country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This means that your information may be subject to government or law enforcement access under the laws of those countries.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "11 Facilitating international transfers and GDPR for EU users Your information may be transferred to or accessed by Roost and third parties around the world.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

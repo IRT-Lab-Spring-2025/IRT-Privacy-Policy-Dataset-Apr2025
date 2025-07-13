@@ -1,0 +1,44 @@
+[
+  {
+    "Cookies can also help us provide information that is targeted to your interests.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use cookies from third-party partners such as Google Analytics for marketing and analytical purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These entities and affiliates may share such information with their affiliates, business partners and other third parties for the purpose of conducting the required checks, namely for the purpose of credit underwriting, providing you their products and services and may market to you as a result of such sharing unless you explicitly opt-out.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use third-party advertising companies to serve ads when you visit our Platform.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These companies may use information not including your name, address, email address, or telephone number about your visits to this and other websites in order to provide personalized advertisements about goods and services of interest to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You have an option to opt out from tracking of personalized advertising using the Opt out of Ads Personalization settings using your device's settings application.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

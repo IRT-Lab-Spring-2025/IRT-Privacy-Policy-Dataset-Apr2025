@@ -1,0 +1,9 @@
+[
+  {
+    "We might transfer personal data to recipients located outside the EEA into so-called third countries.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

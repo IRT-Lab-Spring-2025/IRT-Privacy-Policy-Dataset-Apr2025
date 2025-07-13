@@ -1,0 +1,100 @@
+[
+  {
+    "To develop and improve our current and future offerings and your experience, including through the use of automated systems that analyze data using machine learning and other analytic techniques, in furtherance of our legitimate interests or, where needed, with consent.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "To deliver targeted advertising and send you promotional offers, advertising, or other marketing content in furtherance of our legitimate interest to engage in direct marketing or with consent as required by applicable law.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Our business partners, such as integration partners, channel partners e.g., resellers, event sponsors, partners, and attendees, Ad Partners, and Autodesk's App Store publishers, with whom you interact to facilitate your relationship with Autodesk and those business partners for any of the purposes described in our or those business partners privacy statements.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Individuals in Canada, Autodesk may share your personal data for cross-context behavioral advertising, for example by disclosing your personal data to third-party advertising platforms.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Autodesk may transfer personal data to other regions outside of Canada and Quebec.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Because we and our service providers maintain servers in global locations, your personal data may be transferred across national borders and stored on the servers outside of your country or region.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For example, if your data is transferred from one of our entities in the European Economic Area (EEA) to the United States, or to another country outside of the EEA that does not provide adequate protection for personal data, as determined by the European Commission, we rely on our EU Binding Corporate Rules approved by the Irish Data Protection Commission in May 2023, which you can find on our website here.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If your data is transferred from one of our entities in the United Kingdom or in Switzerland to a country that does not provide adequate protection for personal data as determined by UK and Swiss Data Protection Laws we rely on the legal mechanism of Standard Contractual Clauses for such transfers.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use analytics tools and also work with one or more advertising networks and digital advertising partners our Ad Partners that use Cookies to collect information about application visitors, to serve ads, and to help us track results of advertising and marketing campaigns.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Partners of our Ad Partners may also use Cookies to collect information from you for these purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Through these means, we and/or our Ad Partners and their partners may be able to collect information from application visitors, including websites visited, how and when applications are used, marketing preferences, IP addresses, device IDs, and browser information.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This information is used to display personalized advertising in websites and other applications, to calculate and control the number of unique and repeat views of a given ad, to deliver ads that relate to a visitor's interests, and to measure the effectiveness of ad campaigns.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can opt out of the use of your information by certain Ad Partners for online behavioral advertising by using the Digital Advertising Alliance's Your AdChoices tool.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Autodesk reserves the right to suspend or terminate Your Offerings for failure to comply with requests for additional export control related assurances or if Autodesk determines in its sole discretion that sanctions and/or export control related laws and regulations restrict the provision of products, services and/or other financial benefit.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

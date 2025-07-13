@@ -1,0 +1,23 @@
+[
+  {
+    "If you do not want our advertising providers to use your visits to Twitter websites to show you personalized ads on our behalf, you can opt-out using your Do Not Track browser setting.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Our Privacy Policy also does not apply to these external social networks and platforms. Our third-party advertising providers, including Google Analytics, also use these technologies for marketing on our behalf, including the delivery of interest-based ads and measurement of their performance.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Your California Privacy Rights: California's Shine the Light law. Under California Civil Code Section 1798, California residents with an established business relationship with us can request information once a year about sharing their Personal Data with third parties for the third parties' direct marketing purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

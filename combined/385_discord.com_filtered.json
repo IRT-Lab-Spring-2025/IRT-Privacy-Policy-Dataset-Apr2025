@@ -1,0 +1,51 @@
+[
+  {
+    "International data transfers": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We also use certain information, which may include content reported to us, content that violates our Terms of Service, and certain other content widely available on the service such as public posts, usernames, avatars, banners, user profiles, server names, server icons, and server banners, to create systems and models that can be automated to more swiftly detect, categorize, and take action against prohibited content or conduct.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "This information also helps us surface Discord features and promotions from us and our partners that may be of interest to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may also provide limited information to advertising platforms to help us reach people that we think will like our products and to measure the performance of our ads shown on those platforms.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may also store information on servers and equipment in other countries depending on a variety of factors, including the locations of our users and service providers.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "By accessing or using our services or otherwise providing information to us, you understand that your information will be processed, transferred, and stored in the U.S. and other countries, where different data protection standards may apply and/or you may not have the same rights as you do under local law.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In certain circumstances, we may be liable for the transfer of personal data from the EU, Switzerland, or the UK to a third party outside those countries.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

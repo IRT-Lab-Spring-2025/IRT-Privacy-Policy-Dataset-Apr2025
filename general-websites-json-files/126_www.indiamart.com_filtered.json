@@ -1,0 +1,44 @@
+[
+  {
+    "In this regard, we may also record conversations and archive correspondence between users and the representatives of the site including the additional information, if any, in relation to the services for quality control or training purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For advertising, marketing, displaying publication.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Business partners for sending their business offers to the users, which are owned and offered by them solely without the involvement of the site.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "User Information that we collect may be transferred to, and stored at, any of our affiliates, partners or service providers which may be inside or outside the country you reside in.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "By submitting your personal data, you agree to such transfers.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Your Personal Information may be transferred to countries that do not have the same data protection laws as the country in which you initially provided the information.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

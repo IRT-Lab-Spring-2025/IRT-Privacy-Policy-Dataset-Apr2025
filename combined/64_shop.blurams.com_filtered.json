@@ -1,0 +1,44 @@
+[
+  {
+    "At times Blurams may make certain personal information available to third-party affiliates that work with Blurams to provide products and services, or that help Blurams market to customers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Blurams may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary 1 to comply with any law, legal process, andor requests from government authorities within or outside your country of residence 2 to protect and defend the rights or property of Blurams 3 to enforce our Terms of Service 4 act in urgent circumstances to protect the personal safety of users of Blurams, the operation of the Service or the general public or 5 for purposes of national security, law enforcement, or other issues of public importance, disclosure is necessary or appropriate.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These other websites and services may place their own cookies or other files on your computer and collect data or solicit personal information from you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Your information may be stored and processed in any country in which Blurams maintains facilities.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In this regard, or for purposes of sharing or disclosing data as described in this Privacy Policy, Blurams reserves the right to transfer information outside of your country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "By using the Service, you consent to any such transfer of information outside of your country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

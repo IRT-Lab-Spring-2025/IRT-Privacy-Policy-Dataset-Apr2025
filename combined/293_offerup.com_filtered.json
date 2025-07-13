@@ -1,0 +1,72 @@
+[
+  {
+    "By accessing or using the OfferUp Service or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries, where you may not have the same rights and protections as you do under local law.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "With advertisers to help us deliver relevant advertising to you on the OfferUp Service and across the internet.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "C. Advertising and Analytics Services Provided by Others.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may allow partners like Microsoft and Google to serve advertisements on the OfferUp Service, on our behalf across the Internet, and to provide us with analytics services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These entities may use cookies, ad tags, web beacons, and other technologies to collect information about your use of the OfferUp Service and other websites and online services, including your IP address, device identifier, web browser, pages viewed, time spent on pages, links clicked and conversion information.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Information collected by these service providers may be used by OfferUp and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on the OfferUp Service and other websites and online services, and better understand your online activity.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Your mobile device operating system may also include a feature that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Opt-Out of selling or sharing your personal information.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you have not opted out, we allow Googles online advertising service to collect identifiers such as cookies and other device identifiers and internet or other electronic network information such as the webpage you visited through the OfferUp Service for the purpose of sending personalized ads to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "19. Transfer and Processing Data In order for us to provide our Services, you agree that we may process, transfer and store information about you in the United States and other countries, where you may not have the same rights and protections as you do under local law.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

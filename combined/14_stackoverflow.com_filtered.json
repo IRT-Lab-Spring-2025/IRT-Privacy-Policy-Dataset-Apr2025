@@ -1,0 +1,16 @@
+[
+  {
+    "This information is used to keep the Products and Services secure, to analyze and understand how our Products and Services are used, optimize such usage, provide advertising across the Network as well as certain Products and Services to personalize your experience, and to help connect you with potential job opportunities in the case of our recruiting Products and Services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This information is collected for various purposes, including advertising, analytics and to serve content as it relates to certain Products or Services e.g., Talent, as well as to provide you with localized content, recommendations, and marketing.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

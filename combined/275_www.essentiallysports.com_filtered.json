@@ -1,0 +1,23 @@
+[
+  {
+    "Third-party ad servers or ad networks uses technologies like Cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on EssentiallySports, which are sent directly to users browser.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These technologies are used to measure the effectiveness of their advertising campaigns andor to personalize the advertising content that you see on websites that you visit.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Note that EssentiallySports has no access to or control over these cookies that are used by third-party advertisers, but we at EssentiallySports shall always strive and take reasonable efforts to collaborate with Partners that have transparent and appropriate Privacy practices.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

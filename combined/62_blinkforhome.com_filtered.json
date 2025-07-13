@@ -1,0 +1,23 @@
+[
+  {
+    "We use your personal information to display interest-based ads for features, products, and services that might be of interest to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Transfers out of the European Economic Area.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Whenever we transfer personal information to countries outside of the European Economic Area, we will ensure that the information is transferred in accordance with this Privacy Notice and as permitted by the applicable laws on data protection.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

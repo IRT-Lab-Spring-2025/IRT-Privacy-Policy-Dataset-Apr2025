@@ -1,0 +1,16 @@
+[
+  {
+    "The Customer Data Research and Development Privacy Policy describes Oracles processing of personal information in connection with Oracles artificial intelligence and machine learning activities in order to analyze, develop, and improve Oracle products and services, and for security and compliance purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "The Oracle Advertising Privacy Policy addresses how Oracle facilitates the collection and use of marketing and interest-based information to help enable interest-based advertising by our Oracle Advertising customers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

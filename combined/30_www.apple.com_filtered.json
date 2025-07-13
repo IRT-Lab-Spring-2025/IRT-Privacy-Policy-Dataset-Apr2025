@@ -1,0 +1,44 @@
+[
+  {
+    "To power features such as search and as a source for our foundational AI models, Apple uses Applebot, a web crawler, to crawl information that is publicly available on the internet.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "For research and development purposes, we may use datasets such as those that contain images, voices, or other data that could be associated with an identifiable person.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "If you disable Allow Apps to Request to Track, third-party apps cannot request to use the Advertising Identifier, a non-personal identifier served by the operating system on your device, to track you across apps and websites owned by other companies.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Apples international transfer of personal data collected in the European Economic Area, the United Kingdom, and Switzerland is governed by Standard Contractual Clauses.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Personal data relating to individuals in the Peoples Republic of China may be processed by Apple in countries outside of the Peoples Republic of China, such as Apple Inc. in the United States or Apple Distribution International Limited in the Republic of Ireland.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For more information, visit China Mainland Privacy Disclosures.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

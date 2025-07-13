@@ -1,0 +1,44 @@
+[
+  {
+    "We use third-party advertising companies to serve ads when you visit timeanddate.com.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These companies may use aggregated information about your visits to this and other websites to provide advertisements about goods and services of interest to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website and/or other websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Google's use of advertising cookies enables it and its partners to serve ads to our users based on their visit to our sites and/or other websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Users may opt out of personalized advertising by visiting YourAdChoices or our privacy settings page.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Third parties we use for advertising index Exchange, Google Ad Manager, Google Admob, OpenX, App Nexus, Rubicon Project, Conversant, Sovrn, Criteo, Sonobi, RhythmOne, District-Mb, RealTime, Microsoft.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

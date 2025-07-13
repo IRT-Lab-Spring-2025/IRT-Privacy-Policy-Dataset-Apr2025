@@ -1,0 +1,30 @@
+[
+  {
+    "We may share your PII with trusted partners and suppliers only if they need such information to perform their specific obligations e.g. to provide you with our service, to collect, store and process your PII, to select and serve relevant adverts, and to improve and optimize our sites and apps, and we require them to do so based on our instructions and in compliance with this Privacy and Cookies Policy and any other appropriate confidentiality and security measures and applicable regulations.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Targeting or Advertising cookies.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Allows us to purchase online advertising aimed at people who have visited our sites and apps.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can access here to an updated list of our ad technology providers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

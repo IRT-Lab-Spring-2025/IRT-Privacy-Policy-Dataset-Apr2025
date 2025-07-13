@@ -1,0 +1,58 @@
+[
+  {
+    "Partners with which we offer co-branded services or engage in joint marketing activities.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you with relevant offers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For example, to build, train, and improve the accuracy of our automated methods of processing including artificial intelligence or AI, we manually review some of the output produced by the automated methods against the underlying data.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "As part of our efforts to improve and develop our products, we may use your data to develop and train our AI models.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "When we transfer personal data from the European Economic Area, we do so based on a variety of legal mechanisms, as described in the Where we store and process personal data section of this privacy statement.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For example, we use error reports to improve security features, search queries and clicks in Bing to improve the relevancy of the search results, usage data to determine what new features to prioritize, and voice data to develop and improve speech recognition accuracy.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "For example, we use data, often de-identified, to better understand our customers' computing and productivity needs, and to train and fine-tune AI models, which can shape the development of new products.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "When you visit a website or use an app that wants to show you ads, the digital property may allow Microsoft to access or receive device data or certain other data identified in the Personal data we collect section above.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

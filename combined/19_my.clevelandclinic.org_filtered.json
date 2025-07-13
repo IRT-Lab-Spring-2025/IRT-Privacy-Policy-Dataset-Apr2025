@@ -1,0 +1,30 @@
+[
+  {
+    "We may share your information with third-party vendors and service providers that help us with specialized services, including billing, payment processing, providing medical advice for telemedicine services, management and hosting of telemedicine services, customer service, email deployment, business analytics, marketing including but not limited to advertising, attribution, deep-linking, direct mail, mobile marketing, optimization and retargeting advertising, performance monitoring, hosting, and data processing.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To opt out of interest-based advertising across browsers and devices from companies that participate in the Digital Advertising Alliance or Network Advertising Initiative opt-out programs, please visit their respective websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You may also be able to opt out of interest-based advertising through the settings within the mobile app or your mobile device, but your opt-out choice may apply only to the browser or device you are using when you opt out, so you should opt out on each of your browsers and devices if you want to disable interest-based advertising for those browsers and devices.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you opt out, you will still receive ads but they may not be as relevant to you and your interests, and your experience on our Services may be degraded.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Moreover, we may transfer your data to our marketing partners, operators of survey platforms, operators of social media platforms.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We normally process personal data within the European Economic Area (EEA), but in some cases your personal data may be transferred outside the EEA.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "While you retain all rights in such communications or material, you grant us and our agents and Affiliates a non-exclusive, paid-up, perpetual, and worldwide right to copy, distribute, display, perform, publish, translate, adapt, modify, and otherwise use such material for any purpose regardless of the form or medium now known or not currently known in which it is used, including, but not limited to the use for commercial purposes and the right to share this material with the third parties.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

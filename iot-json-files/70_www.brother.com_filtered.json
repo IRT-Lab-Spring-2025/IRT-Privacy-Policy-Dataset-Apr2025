@@ -1,0 +1,58 @@
+[
+  {
+    "We may also implement Google Analytics Demographics and Interest Reporting, a feature of Google Analytics Advertising, to help us understand the demographics and interests of our website users.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Furthermore, we may work with third party service providers while storing or processing your personal information, for example, your personal information may be stored in the cloud by our cloud service providers and they may keep your personal information in locations outside the European Economic Area, which do not provide an adequate level of protection.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Residents of the State of California also have the right to request information regarding third parties to whom the company has disclosed certain categories of Personal Information during the preceding year for the third parties direct marketing purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We collect a unique numerical identifier, assigned to you by a first-party cookie, automatically when you use our website in order to identify you, provide our services, keep you logged in to our website, prevent fraud, and provide you with targeted information and offers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use this information to gauge online activity on our website, measure the effectiveness of our online services, software, and tools, and serve targeted advertisements based on your online activities.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use this information to measure and improve the usability and effectiveness of our products and services, carry out internal research and marketing analysis, and provide you with targeted information, advertisements, and offers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use this information to gauge online activity on our website, measure the usability and effectiveness of online services, software, and tools, personalize websites, and serve targeted advertisements based on your online activities.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you allow your device to provide us with this information, we use it to make improvements to our products, software, and services, and to provide recommendations and deliver relevant advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Cookies We use cookies to deliver and enhance the use of the Service, and inform, optimize, and serve ads based on your history with our websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The use of some cookies for analytics or advertising purposes may constitute a sale or sharing of personal information according to applicable law.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can opt out of this by clicking Do Not Sell or Share My Personal Information or enabling the Global Privacy Control available in certain browsers or extensions.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

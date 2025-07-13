@@ -1,0 +1,9 @@
+[
+  {
+    "Transfers of data outside the group are governed either by the BCR of our processor or by contracts containing the clauses of the European Commission for suppliers established outside the EU to guarantee a similar level of protection as that of your home country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

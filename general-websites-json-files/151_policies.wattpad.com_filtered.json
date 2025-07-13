@@ -1,0 +1,65 @@
+[
+  {
+    "We use this Personal Information to Display the information as part of your Wattpad profile, Conduct surveys and calculate anonymous, aggregate statistics to better understand our users, improve our Services, and develop new features, Conduct promotions including contests and sweepstakes and provide prizes and awards, Personalize our Services and display relevant, tailored advertisements, improving your ad experience.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use this Personal Information to Personalize and customize your story discovery experience, Measure your use and overall satisfaction with our Services, Calculate anonymous, aggregate statistics to better understand our users, improve our Services, and develop new features, Investigate and prevent reported issues, illegal activity, and breaches of our terms of service, Help prevent spam, fraud, abuse, and other prohibited activity, Display relevant, tailored advertisements and improve your ad experience, For security purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may use this information to make inferences, like what topics you may be interested in, to develop new products and services for the Wattpad community, and to customize the content we show you, including ads.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Processing Activity Display relevant, tailored advertisements and improve your ad experience.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Google AFP We may provide your Personal Information to Google in connection with its AdSense for Platforms AFP program.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Please be aware that the privacy protections and the rights of authorities and Government agencies to access your Personal Information in some of these countries may not be equivalent to those in your country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We comply with applicable legal requirements when transferring Personal Information to countries other than the country where you are located.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Wattpad is a free service and to continue to make it free you understand that we enable advertising on the Services, including in connection with the display of your content or other information.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you wish to find out more information about the practices of these third party advertisers and your choices about how your personal information may be used by them, please visit www.networkadvertising.org.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "This analysis may involve using techniques such as machine learning, or AI tools.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "We use Personal Data and share such Personal Data with third-party service providers to facilitate and personalize your interaction with Site features such as chatbots, automated translation and grading functionality, tailored recommendations, and learner engagement features.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "We may share your Personal Data with Content Providers and other business partners of Coursera so that Content Providers and other business partners may share information about their products and services that may be of interest to you where they are legally entitled to do so.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use Personal Data to send marketing and serve advertising, to inform our marketing and advertising strategies and content, to understand more about our audiences and to personalize our marketing and advertising, so that they are more relevant to particular audiences.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may share Personal Data with the providers of third party tools and services for some of these activities, in particular for online advertising purposes, including targeted advertising and custom audience activities, for example, we use advertising services from Meta, amongst others.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In order to provide our products and Services to you, you may be sending your Personal Data outside of the country where you reside or are located, including to the United States.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Accordingly, your Personal Data may be transferred outside of the country in which you reside or are located, including to countries that may not provide the same level of protection for your Personal Data.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The Principles for transfers of Personal Data from the EEA, UK and Switzerland, respectively, to the U.S.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

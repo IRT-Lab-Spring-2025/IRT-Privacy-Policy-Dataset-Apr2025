@@ -1,0 +1,44 @@
+[
+  {
+    "Third parties may also collect information about your website activity over time and on other websites or mobile applications.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Examples may include sending postal mail and email, analyzing data, providing marketing assistance, providing search results and links including paid listings and links, processing credit card payments, and providing customer service.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If applicable, this information would include the categories of customer information shared, the names and email addresses of those businesses with which we shared customer information for the immediately prior calendar year e.g., requests made in 2018 will receive information regarding 2017 sharing activities, and descriptions of the likely types of marketing the third parties would send.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Data Transfers When you use the Service, your information may be transferred to or stored in the United States or other countries where we or our service providers operate.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The data protection laws and rules in these countries may be different than those where you live.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If permissible under local law, youre authorizing Bandcamp to process your information in any of the locations where we operate including the United States by using the Bandcamp Services.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

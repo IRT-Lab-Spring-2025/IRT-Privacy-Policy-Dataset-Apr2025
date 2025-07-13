@@ -1,0 +1,100 @@
+[
+  {
+    "These cookies may be set through our site by our advertising partners.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "They may be used by those companies to build a profile of your interests and show you relevant content on other sites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you do not allow these cookies, you will experience less targeted advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These applications collect, use and share information under third-party privacy policies.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "BBB may also use the information we collect from you to enhance your online experience and provide you with customized site content and targeted information on the site, across third-party sites, or through your mobile device.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In order to process a complaint, BBB may send the complaint and your information to the subject business which may be outside of your country, handle the complaint itself, or refer the complaint to another appropriate organization for handling.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "BBB will send a customer review and your information to the subject business which may be outside of your country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Marketing cookies may be set through our site by our advertising partners.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "They may be used by those companies to build a profile of your interests and show you relevant content on other sites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you do not allow these cookies, you will experience less targeted advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "BBB may allow third parties to collect and use information about your browsing activity on our website in order to serve you more relevant ads based on your interests.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "BBB adheres to the Digital Advertising Alliances Self-Regulatory Principles for Online Behavioral Advertising and commits to providing consumers with notice and choice about interest-based advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "On pages where we allow third parties to collect data for interest-based ads, you will see the notice Your Ad Choices near the link to the Privacy Policy.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "When you receive an ad based on your interests, you will see the Advertising Option Icon in or near the ad to provide you with notice that the advertisement is tailored to your possible interests as inferred from your browsing activity.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

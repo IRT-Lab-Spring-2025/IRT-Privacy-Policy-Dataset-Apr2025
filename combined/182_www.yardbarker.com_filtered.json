@@ -1,0 +1,65 @@
+[
+  {
+    "Personalization. In order to provide you with content and advertising that is more interesting and relevant to you, we may use the information from and about you to make inferences and predictions about your potential areas of interest.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "With Whom Do We Share This information? Third Parties. We use a select number of trusted external service providers who help us provide and maintain the Service including, but not limited to analytics companies, advertisers and ad agencies, data management and storage services, survey providers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In addition, these third parties may place or recognize cookies or use other technology to track certain information about our users.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For example, in the course of serving certain advertisements, an advertiser may place or recognize a unique cookie on your browser in order to collect certain information about your use of the Service.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In particular, the Service uses certain Google analytics and other services, and certain pages use the Google AMP Client ID API, each of which may enable collection and sharing of your information including personal data with Google for further use.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In addition, YB Media may share your information with reputable business partners to permit them to send you marketing communications if this is consistent with your choices.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Advertising We use third-party advertising companies to serve ads when you visit our website.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you would like more information about this practice and to know your choices about not having this information used by these companies for interest-based advertising, please visit httpwww.aboutads.infochoices.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

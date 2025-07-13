@@ -1,0 +1,58 @@
+[
+  {
+    "To assist in our business operations and better provide our Services e.g., for software maintenance services, advertising technologies, e-mail services, delivery services, database management services, web analytics, and other services, we may share your information with service providers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may provide user information to our third-party marketing service providers for our promotional andor marketing practices.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may also disclose information that does not directly identify you to advertising and analytics providers to serve personalized ads for the Services and to better understand your use of the Services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Your personal data will be transferred or transmitted to, or stored and processed in the following circumstances in accordance with the purposes stated within this Privacy Policy Places we have infrastructure or data centers, including the United States, Ireland, and Singapore, among other countries where our Services are available.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These countries may have different privacy standards that differ from those where you are.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "However, we will take measures to protect your personal data if it is transferred to these countries.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can also opt out of our processing or sharing of your personal data for online targeted advertising purposes by following the instructions here.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Opt out of interest-based advertising by companies participating in the National Advertising Initiative andor the Digital Advertising Alliance opt-out mechanisms here and here.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

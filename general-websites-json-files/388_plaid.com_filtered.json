@@ -1,0 +1,30 @@
+[
+  {
+    "This data will be transmitted and stored by Google on servers in the United States and other countries.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We operate internationally, and so we transfer the data we collect about you across international borders for processing and storage for example, we transfer data from the EEA and UK to the United States and store data in AWS regions located in the United States.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In particular, when we transfer data from the EEA or UK across other international borders, we rely on adequacy decisions, data transfer agreements, or other EU Commission- or UK Secretary of State-approved as applicable mechanisms for such transfers, including standard contractual clauses.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Federal law gives you the right to limit only sharing for affiliates everyday business purposes  information about your creditworthiness affiliates from using your information to market to you sharing for nonaffiliates to market to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

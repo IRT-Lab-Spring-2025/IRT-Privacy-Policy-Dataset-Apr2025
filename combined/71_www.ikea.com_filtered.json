@@ -1,0 +1,72 @@
+[
+  {
+    "The information contained in these files allows us to optimise and personalise our website for you, to analyse how our website is used and to show you relevant advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "With your consent, our advertisers place so-called marketing cookies on your device.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "They use these cookies to track which pages you visit from their network in order to build up a profile of your online surfing behaviour.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This profile is partly built on the basis of comparable information obtained from your visits to other websites in their network.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This profile is not linked to your name, address, e-mail address and the like as known to us, but only serves to tailor advertisements to your interests so that they are as relevant to you as possible.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "When you consent to marketing cookies, we may also disclose your personal information to third parties.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These third parties may combine your data with data that you have provided to them or that they have collected as part of other services that they provide to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Sometimes they may also be outside the EEA.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you consent to marketing cookies, we may share certain personal information with advertising companies, marketing companies and analytics partners.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These third parties may use your personal information for targeted advertising, marketing and campaign management purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

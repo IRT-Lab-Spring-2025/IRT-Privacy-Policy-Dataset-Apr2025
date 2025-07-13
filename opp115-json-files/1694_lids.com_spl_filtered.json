@@ -1,0 +1,30 @@
+[
+    {
+        "To do this, we use 'cookies' or alphanumeric identifiers that we transfer to your computer's hard drive through your web browser to enable our systems to recognize your browser and to provide features such as storage of items in your Shopping Cart between visits. We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on the Sites. This provider may collect anonymous information about your visits to the Sites and may also use information about your visits to this and other Web sites to refine our services. If you are concerned about cookies, the 'help', 'options' or 'preferences' functions on most browsers will allow to limit or disable cookies altogether. However, cookies allow you to take full advantage of our interactive features, and we recommend that you leave them turned on.": {
+            "data_transferred_to_unfriendly_countries": false,
+            "data_shared_with_advertisers": true,
+            "data_used_for_AI_training": false
+        }
+    },
+    {
+        "* When you provide personal information to one of our retail stores or affiliates, we may share that information with our other retail stores or affiliates in the United States or Canada.": {
+            "data_transferred_to_unfriendly_countries": true,
+            "data_shared_with_advertisers": false,
+            "data_used_for_AI_training": false
+        }
+    },
+    {
+        "We may share personal information about you to address a security, integrity, or legal threat to the Sites or our business, including for fraud protection and credit risk reduction, to protect the legal rights, privacy or safety of Hat World or our employees, agents and contractors, to enforce our terms of use, to respond to inquiries or requests from government or public authorities in any country in which we operate, including the U.S. and Canada, or to comply with the law or legal process.": {
+            "data_transferred_to_unfriendly_countries": true,
+            "data_shared_with_advertisers": false,
+            "data_used_for_AI_training": false
+        }
+    },
+    {
+        "Your California Privacy Rights California Civil Code Section 1798.83 permits customers of Hat World who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please click here to reach our Privacy Officer.": {
+            "data_transferred_to_unfriendly_countries": false,
+            "data_shared_with_advertisers": true,
+            "data_used_for_AI_training": false
+        }
+    }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "Note if you are using an extension or tool that blocks pop-up cookie banners, please disable this tool in order to view and change settings for selling/sharing and online targeted advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You have the right to opt-out of our sharing of your information for cross contextual behavioral advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

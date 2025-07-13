@@ -1,0 +1,275 @@
+[
+  {
+    "Transfer of Information Internationally": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may be share this information with third parties, including, without limitation, service providers with whom we partner to provide our Services to you, as well as our advertising, social media and other business partners.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "By using our Services where videos are displayed, you consent to the collection and sharing with third parties of your video viewing activity, if any, with each such consent being valid for two years from the date of such use or until you withdraw your consent by visiting Your Privacy Choices.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "2. Information We May Create or Generate We may create or generate new information about you from data we collect, including using artificial intelligence or other automated means to gain insights about our audience, such as by way of example, by analyzing your activities on our sites, apps or other Services, generating information about your likely preferences to provide you with more relevant content or advertising topics, or predicting your likelihood of signing up for our Services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "We also create audience segments for purposes of delivering you more relevant content, marketing to you on our Services and through other sites and facilitating third party advertisers ability to deliver more relevant ads to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "b. Train AIML Models Unless prohibited by law, we may use your information as well as publicly available information to help train our and our partners and providers machine learning or artificial intelligence systems and models that we use in connection with our Services such as, for example, to help us predict user preferences, provide more tailored content delivery, and otherwise improve our Services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "4. To market and advertise our Services to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may use your information to market our Services to you, including through websites, locations, platforms and services that are owned and operated by third parties.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may also use marketing vendors to advertise to you on our behalf.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "6. Advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use your information in various ways to support advertising in connection with our Services such as by way of example to measure the effectiveness of ads, to help recognize your devices to serve you ads, to limit the number of times you see a particular ad and to display more relevant ads to you based on your interests.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To do so, we and third parties may a. Use ad-tracking technologies Some of the ads you receive on our websites or apps are customized based on predictions about your interests generated from your visits and interactions with various parts of our sites and apps, different third-party websites and on other devices you may use.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This type of ad customization is sometimes called online behavioral or interest-based advertising or targeted advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "More relevant ads get more views, and advertisers pay more for these ads than generic ads displayed on our sites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Our goal is to deliver you ads that are more interesting and useful to you and more valuable to us when you click on them.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For more information and instructions on how to opt-out of targeted advertisements, see our Cookie Policy and Your Privacy Rights below.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "b. Build audiences and demographic models.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may combine your information with information from other users of our Services to build algorithms or models that may measure users attributes, interests, or demographic information.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "We use this demographic information for various business and commercial purposes such as by way of example to obtain insights about our users, evaluate the effectiveness of our Services and the likelihood of response to offers for our Services, determine what content to deliver, serve targeted advertisements and conduct marketing campaigns.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We can also use these algorithms or models to create groups of users united by common attributes or interests called audiences which are identified by a random ID that is then shared with our ad server to enable targeted advertising on our Services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Serving and targeting adsg.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may share your information with third parties that provide advertising, content and other functionalities to us for the reasons disclosed in Section II, above.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This includes sharing your information with third parties for targeted advertising, to measure and analyze ad performance, to run sweepstakes or live events, or to improve and enhance our Product and Service functionality.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Under this definition, the disclosure of your information to third parties for advertising purposes as described above may constitute a sale or sharing of your information under applicable privacy laws.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may sell the information that we directly collect from or about you our First Party Data, including when our First Party Data is combined with data from other sources to third parties such as by way of example, business partners, purchasers of our assets or businesses, sponsors, data brokers and advertisers for money or other value.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "When we disclose that we may have sold Personal Information, it means that we may have received some benefit to our company in return for sharing Personal Information, it does not necessarily mean we have received any money in exchange.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This may help them target content, services or advertisements to you on behalf of their other clients.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Third parties may also use other services to serve you advertisements.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Right to Opt-Out of Targeted Advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Request that we stop disclosures of your Personal Information for targeted advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Some states may include targeted advertising as a type of profiling.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In addition to the individual state privacy rights described above, you may also find more information about opting out of targeted advertising at advertising industry opt out sites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The Digital Advertising Alliance also provides a download of the AppChoices opt out app that you can use to opt out of targeted advertising on your mobile device.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you choose to delete all cookies, the settings and preferences controlled by those cookies, including opt outs of third-party targeted advertising preferences that you previously made, may be deleted and may need to be recreated.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Our disclosure requirements under this law apply only if we share our consumers Personal Information with third parties for them to directly market their own products to those consumers, instead of assisting us with our own business.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use the information we collect for the purposes described in this Privacy Policy and may share the information we collect with third parties as described in this Privacy Policy, including without limitation contest sponsors, service providers who support the operation of the program, advertising partners, and social media platforms.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Transfer of Information Internationally Your Personal Information may be stored, transferred to, and processed in any country where we have facilities or in which we engage service providers.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These countries may be outside the United States and may have different data protection laws than in the United States.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may use AggregateDe-identified Information for any purpose without restriction, including without limitation for research and marketing purposes, and may also share such data with any third parties, including advertisers, promotional partners, and sponsors, in our discretion.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

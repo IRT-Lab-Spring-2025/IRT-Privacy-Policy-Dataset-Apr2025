@@ -1,0 +1,72 @@
+[
+  {
+    "For the following activities explained further in the section More information about certain activities below AdSmart and PromoSmart, Online and digital advertising AdVance to verify the personal data we hold about you is accurate for example, your address.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For the following activities explained further in the section More information about certain activities below AdSmart and PromoSmart Online and digital advertising AdVance to provide tailored and personalised recommendations which would require an additional purchase or transaction by you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To build a profile about you and your time as a Sky customer, which we use to target and tailor the direct marketing we send you, determine what offers about our products and services you are eligible for and how to provide those offers to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For the following activities explained further in the section More information about certain activities below AdSmart PromoSmart Online and Digital advertising AdVance to improve and develop new content, products, services and customer experiences.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Fraud prevention agencies may allow the transfer of your personal data outside of the UK.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This may be to a country where the UK Government has decided that your data will be protected to UK standards, but if the transfer is to another type of country, then the fraud prevention agencies will ensure your data continues to be protected by ensuring appropriate safeguards are in place.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "When and why we share your data Where a brand or advertiser wishes to target a specific advertising campaign to particular Sky households for example, using AdSmart, we share your contact details with a data broker such as Experian.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The data broker will match that data against data provided by the brand or advertiser to identify Sky households for that campaign without Sky and the brand or advertiser accessing each others customer data.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For example, this data matching process could be performed on behalf of an advertiser that wants to target its television advertising to its existing customers who live near one of its stores.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Separately, the advertiser would receive back a report showing how successful the advertising campaign was e.g. how many times their adverts were viewed, but would not receive information or data about specific households that have seen their adverts.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

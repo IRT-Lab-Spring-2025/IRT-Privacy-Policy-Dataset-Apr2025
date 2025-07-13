@@ -1,0 +1,79 @@
+[
+  {
+    "Advertise or sell to or solicit others.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "International Transfer means a transfer of Personal Data outside the European Economic Area made up of the member countries of the European Union and Norway, Lichtenstein and Iceland or to an organization international.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Your email address may also be used for the purpose of targeting advertising on our Site, if you expressly consent to this in the form using a checkbox.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Our service provider creates an envelope that contains your identifier created on the basis of your hashed email address combined with other Personal Data collected thanks to the cookie dropped on your terminal by LiveRamp if you have consented to it via our CMP , which are stored in our first party storage which to show you personalized advertisements.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The data collected will also enable us to offer you personalized content and advertising on euronews.com, while guaranteeing respect for your privacy.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Targeted advertising display technologies may be used.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Targeted advertising is carried out almost exclusively by means of cookies or other similar technologies hereinafter cookies.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The main purpose of this processing is to create user profiles in order to serve you targeted advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These service providers, called Data Processors, may be located within the European Economic Area or outside.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "When a Data Processor is located outside the European Economic Area or its activity is carried out outside the European Economic Area, and this Data Processor or its activity is not located in a country which has been subject to an adequacy decision adopted by the European Commission, Euronews implements appropriate measures such as the standard contractual clauses of the European Commission in order to ensure an adequate level of protection of your Data.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can object at any time to the Processing of your Data for direct marketing purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

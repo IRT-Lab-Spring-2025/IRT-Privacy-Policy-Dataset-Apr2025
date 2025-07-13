@@ -1,0 +1,37 @@
+[
+  {
+    "International data transfers: Your personal information may be collected, processed and stored by Nest or its service providers in the United States and other countries where our servers reside.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Please be aware that the privacy protections and legal requirements, including the rights of authorities to access your personal information, in some of these countries may not be equivalent to those in your country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you are using Nest Products in the European Economic Area or other regions with laws governing data collection and use that may differ from United States law, you agree to the transfer of your personal data to the United States and other countries where Nest operates.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Direct adjustments to the device: If you change settings like temperature on the Nest Learning Thermostat, it records and feeds that information to the Nest algorithms to learn your desired comfort level in different situations.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "We may disclose information in response to legal process and lawful requests by public authorities in the United States and other countries for the purposes of law enforcement and national security.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

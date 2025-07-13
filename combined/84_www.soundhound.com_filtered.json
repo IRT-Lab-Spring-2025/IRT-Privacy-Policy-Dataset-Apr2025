@@ -1,0 +1,121 @@
+[
+  {
+    "How We Use Your Information We use information from or about you or your devices for the following purposes To provide and improve our Services and to improve the relevance of information provided to you by our Services, such as by personalizing your user experience To communicate with you and to respond to your questions andor commands To facilitate and process orders and payment information To update your status on your social networks, to send messages on your behalf to your social networks, and to provide other features and services to you To refine and improve our audio recognition capabilities, and to respond to requests, searches, or commands you speak into the Services To facilitate the connection of third party services or applications, such as social networks, music streaming services, and transportation providers SoundHound Chat AI collects and transmits device location in order to enable launching navigation apps Google Maps, Uber, Waze etc.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "by voice SoundHound Chat AI collects and transmits contacts in order to enable making phone calls and sending text messages by voice To send you marketing communications and other types of offers or advertisements, which may be tailored to you, based on information such as your interests and preferences, and to improve the relevance of advertisements displayed to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Third parties, such as our vendors, suppliers, advertisers, and analytics companies to improve our Services and the relevance of the content provided by those third parties.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This information is shared in aggregate form, except for certain interactions you make with advertising content for example, when you click on an ad to upgrade an App.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may also share anonymous demographic and age data with our advertising partners.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Please note that we use Adapex in our Apps for the purposes of personalized advertising, and Adapex will collect and use certain data hashed and pseudonymous emails, IP address, or information about your browser or operating system for advertising purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Personalized Advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You may opt-out of the processing by advertising service providers who may collect certain information from you when you use our Services and may use that or other information to serve you with advertisements that may be of greater interest to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Some of these service providers are members of the Network Advertising Initiative or the Digital Advertising Alliance.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you do not wish to receive personalized ads in our Services, please visit the opt-out pages for those organizations to learn about how you may opt out of receiving personalized ads from member companies.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You may opt out of our use of your mobile devices advertising identifier to serve personalized advertising in our Apps by enabling the global interest-based advertising opt-out option appropriate to your device.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may transfer information from or about you or your devices to countries other than the country where you are located including the United States, which may not have the same data protection laws as your jurisdiction.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The categories of personal information that the business sold about the consumer and the categories of third parties to whom the personal information was sold, by category or categories of personal information for each third party to whom the personal information was sold.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Opting Out of Cookies and SaleSharing Using Online Tracking Technologies. SoundHound Inc.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "However, our use of online tracking technologies to present relevant interest-based ads may be considered a sale or sharing under certain state privacy laws.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "When you are using the SoundHound mobile application, you can control your advertising preferences using the Do Not Sell or Share My Personal Information  toggle in the Settings page.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Third Party Marketing.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

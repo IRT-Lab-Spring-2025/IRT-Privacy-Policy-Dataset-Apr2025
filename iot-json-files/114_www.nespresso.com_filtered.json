@@ -1,0 +1,72 @@
+[
+  {
+    "In order to better understand our customers and offer products and services of interest to you, we may collect information from or about you that indicates your interests or demographic information.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may also acquire information from other sources, such as when you place an online order through a third-party and to help us maintain the accuracy of the information we collect, personalize your experience with the Services, target our communications so that we can inform you of products and services or other offers that may be of interest to you, measure ad quality and responses, and for internal business analysis or other business purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We engage others to provide analytics, serve advertisements, and perform related services across the web and in mobile apps.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This information is used to deliver advertising targeted to your interests on other companies sites or mobile apps and to analyze and track data, determine the popularity of certain content and better understand your activity.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In addition to cookie-based ad targeting, we may disclose identifiers, such as your email address and phone number, to our advertising partners.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These advertising partners translate that information into a unique identifier that they can then use to show ads that are more relevant to you across the web and in mobile apps.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can also learn more about interest-based ads, or opt out of having your web browsing information used for behavioral advertising purposes by companies that participate in the Digital Advertising Alliance, by visiting www.aboutads.infochoices.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Your device may also include a feature that allows you to opt out of having certain information collected through mobile apps used for targeted advertising purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This includes U.S. and non-U.S. law enforcement or regulatory authorities.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "They can also opt-out of sales, sharing, and targeted advertising by following the instructions in our Notice at Collection and U.S. State Privacy Notice.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

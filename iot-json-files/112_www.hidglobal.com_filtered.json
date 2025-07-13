@@ -1,0 +1,51 @@
+[
+  {
+    "Advertising cookies": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These cookies may be used to share data with advertisers so that the ads you see are more relevant to you, allow you to share certain pages with social networks, or allow you to post comments on our site.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We do share personal information as share is defined under certain data protection laws with third party advertisers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "While HID does not sell personal information to third parties, HID does disclose data related to cookies and similar technologies with third parties both to evaluate and optimize the performance of and analyze your use of our online services and for advertising purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This may qualify under U.S. state laws as selling or sharing.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may transfer, access, or store your personal information outside of the EEA, Switzerland, the United Kingdom, China, or any country requiring legal protections for international data transfer.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Browsing history, search history, information on a consumers interaction with a website, application, or advertisement.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

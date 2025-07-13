@@ -1,0 +1,30 @@
+[
+  {
+    "2. How do we use such information? 2.1. We use your information for the following purposes to provide and operate the Services to enhance our data security and fraud prevention capabilities To create aggregated statistical data and other aggregated andor inferred information, which we may use to provide and improve our respective Services to customize advertising and content available on the DeviantArt Sites, to send you service-related notices and promotional information about products and services that may be of interest to you andor to conduct research for internal purposes to help us in updating, expanding and analyzing our records to identify new Users to facilitate, sponsor, and offer certain contests, events, and promotions, monitor performance, contact winners, and grant prizes and benefits and to comply with any applicable laws and regulations.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "4. Where do we store your information? 4.1. Information of Account holders and non-Account holders may be maintained, processed and stored by us and our authorized affiliates and service providers in the United States of America, in Europe including in Ukraine, in Israel, and in other jurisdictions as necessary for the proper delivery of our Services andor as may be required by law as further explained below.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "DeviantArt expects all users accessing the Service or the Site to respect creators' choices about the acceptable use of their Content, including for Artificial Intelligence Purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "DeviantArt provides no guarantees that third parties will not include certain Content in external data sources, or otherwise use a creator's work for Artificial Intelligence Purposes, even when such directives are present.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  }
+]

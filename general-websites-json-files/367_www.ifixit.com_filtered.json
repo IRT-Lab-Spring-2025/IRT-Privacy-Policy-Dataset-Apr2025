@@ -1,0 +1,177 @@
+[
+  {
+    "Our website uses external web services and cookies to personalize content and advertising, provide social media features, and analyze web traffic.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Your personal data may be used by Google to personalize ads, and cookies and mobile ad identifiers may be used for both personalized and non-personalised ads.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may also share information about your use of our website with the social media, advertising and analytics services we use.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Your personal data e.g. IP address, browser fingerprint, or geolocation may be transferred to third countries and be accessed there.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "When data is transferred to other countries, in the absence of appropriate safeguards, there is a risk that this data may be accessed by public authorities without you being informed and without you having any legal remedy against this.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "There may be no supervisory authority or data processing principles, and EU citizens may not have the same data subject rights as in the EU.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "By giving your consent, you agree to the use of cookies, the activation of external web services, the transfer of data to other countries, and the display of personalized ads.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use the Facebook Pixel on our website.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The use of this technology enables Facebook to assign visitors to our website to specific groups for example, visitors to our website according to the areas of interest we have sent to Facebook - the custom audiences for the display of specific advertisements and to thus be able to recognize these groups.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This ensures that these users are only shown advertisements that match their interests and that inconveniences caused by inappropriate advertising are avoided.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In your Facebook account under the heading Settings, you can object to the collection of your data via the Facebook Pixel and its use for displaying specific advertisements.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can learn how Google uses data for advertising purposes, find information about setting options and find out how to object to the use of your data for advertising purposes on these Google pages.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This website uses the demographic features function as part of Google Analytics.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This data comes from Googles interest-based advertising and from visitor data from third-party providers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This website uses Google Analytics Remarketing from Google.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Google Analytics Remarketing is used to present advertisements to visitors that refer to the content of previously visited websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Google uses cookies to recognize visitors who visit websites in the Google advertising network.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This service collects your IP address, which of our web pages you have visited and, if applicable, other data Google needs for the provision of analytics remarketing.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This website uses Google AdWords from Google and the conversion tracking function in Google AdWords.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Google conversion tracking is used to track and evaluate your clicks on ads, purchases, subscriptions, and other actions on our website.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This website uses Google AdSense to display advertisements on our website.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Google AdSense uses cookies and web beacons to recognize and analyze your visit to the site.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This service collects your IP address, which of our web pages you have visited and, if applicable, other data Google needs for the provision of the advertisements.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To personalize your website experience and to deliver content and product and service offerings relevant to your interests, including targeted offers and ads through our website, third-party sites, and via email or text message with your consent, where required by law.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The transfer of personal data to a country or an international organization outside the European Union EU or the European Economic Area EEA is subject to legal or contractual permissions only in accordance with the conditions of Art. 44 ff. GDPR.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

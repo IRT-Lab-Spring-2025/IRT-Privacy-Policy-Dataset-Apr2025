@@ -1,0 +1,37 @@
+[
+  {
+    "If you provide your consent when asked, then we may also share this aggregated data with third parties to enhance the quality of the traffic, parking, and other features enabled by content providers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use other SMS vendors in some regions, such as Alibaba Cloud mainland China only, every8d Taiwan only, aligo sms South Korea only, fpt  chunghwa Vietnam only and true corp Thailand only.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Garmin W\u00fcrzburg GmbH has entered into approved model contractual clauses where these companies are not located in the EEA or a jurisdiction deemed adequate under applicable data protection law.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Here are examples of third-party providers we currently use Google Google Analytics is used to track statistics and user demographics, interests, and behavior.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Such third parties may use these methods and this information for their own purposes by relating information about your use of our products, services, websites, or apps with any of your personal information that they may have.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

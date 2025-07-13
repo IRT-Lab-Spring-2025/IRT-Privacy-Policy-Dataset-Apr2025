@@ -1,0 +1,65 @@
+[
+  {
+    "We use Cookies on our Website and App to a help remember and process items in the shopping cart, b understand and save your preferences for future visits, c keep track of advertisements, d compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future, and e allow trusted third-party services that track this information on our behalf.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We allow third party behavioral tracking and links to third-party web pages.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may disclose to third parties to market their products and services to you if you have either consented or not opted out of these disclosures.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may disclose personal information to third parties to market their products and services if you have either consented or not opted out of these disclosures.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Google, as a third-party vendor, uses Cookies to serve advertisements to Users on our Website, Application, and Platform.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Google uses first-party Cookies, such as Google Analytics Cookies, to compile data regarding User interactions with ad impressions and other ad service functions as they relate to our Platform.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We have implemented advertising features on our Website, Application, and Platform including a remarketing with Google AdSense b Google Display Network Impression Reporting c Google Demographics and Interests Reporting and d Google's DoubleClick platform integration.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "By using our site, you consent to any transfer of your Personal Information out of Europe, UK, or Switzerland for processing in the US or other countries.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "As of now, we and our customers are using the New SCCs to transport Personal Data from the EU to other countries including the US for processing by us.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

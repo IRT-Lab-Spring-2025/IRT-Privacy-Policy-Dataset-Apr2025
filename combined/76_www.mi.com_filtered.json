@@ -1,0 +1,37 @@
+[
+  {
+    "We use the information we have to help our business partners evaluate the effectiveness and coverage of their services, and understand the types of people who use their services and how people interact with their websites, apps, and services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may also transfer your personal information to third-party service providers and business partners and your data may therefore also be transmitted to other countries or regions.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The jurisdiction in which these global facilities are located may or may not protect personal information to the same standards as in your jurisdiction.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If Xiaomi shares personal data originating by you in the EEA to a Xiaomi Group entity or a third party service provider outside the EEA, we will do so on the basis of EU standard contractual clauses or any other safeguards provided for in the GDPR.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Xiaomi Communications Co., Ltd., 019, 9th Floor, Building 6, 33 Xierqi Middle Road, Haidian District, Beijing, China, 100085.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

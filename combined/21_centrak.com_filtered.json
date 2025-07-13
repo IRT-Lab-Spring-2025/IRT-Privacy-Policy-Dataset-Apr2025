@@ -1,0 +1,23 @@
+[
+  {
+    "CenTrak partners with a third-party ad network to manage our advertising on other sites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Our ad network partner uses cookies and web beacons to collect non-personal information about your activities on the Website to provide you targeted advertising based upon your interests.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can opt out of targeted advertising by Google here httpswww.google.comsettingsadsanonymous.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

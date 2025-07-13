@@ -1,0 +1,114 @@
+[
+  {
+    "We may allow others to provide analytics services and serve advertisements on our or their behalf across the web and in mobile applications.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your visits to websites that use our Services and other websites and applications.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This information may be used by Recurrent and others to analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, and better understand your online activity.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Advertising and marketing to send advertisements and marketing material via physical and electronic mail relating to product specials and other promotional events or offers, perform marketing testing, research and data analytics, product development, and perform similar activities.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Contextual and behavioral targeting to provide contextual customization of ads shown as part of an interaction with our Website or application, using tracking technologies like cookies and pixels, and to enable Website features such as geographically-specific pricing or logging.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Marketing and advertising providers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "By submitting personal information to us, you understand that we may transfer your personal information to country foreign to you, including the United States, for processing.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For more information about interest-based ads, or to opt out of having your web browsing information used for interest-based advertising purposes, please visit Your Ad Choices and Manage My Browsers Opt-Outs.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Your device may also include a feature Limit Ad Tracking on iOS or Opt Out of Interest-Based Ads or Opt Out of Ads Personalization or Opt Out of Interest-Based Ads on Android that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you opt-out, you will still receive advertisements, but they will not be delivered to you by such companies from whom you have opted-out based upon your behavioral data possessed by the companies from whom you have opted-out.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Users may opt-out of certain advertisements on mobile applications or reset advertising identifiers via their device settings.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Opt-Out of the SaleSharing of Your personal information.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Marketing and Advertising Providers Customer Records as defined in Cal. Civ. Code 1798.80e.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Restriction on Sharing for Cross-Context Behavioral or Targeted Advertising called sharing under California law Request that Recurrent stop sharing of your personal information for purposes cross-contextual behavioral of targeted advertising purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "California Civil Code Section 1798.83 permits visitors to our Websites and users of our Services who are California residents to request, once a year, certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If Playwire publisher advertising services are used, Playwire LLC may collect and use certain aggregated and anonymized data for advertising purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

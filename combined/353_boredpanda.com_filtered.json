@@ -1,0 +1,86 @@
+[
+  {
+    "Billing information is provided to the data processor who processes payments Stripe, Inc. This can result in transferring your personal information outside to the third country USA. 3. Newsletters If you have given us your consent, we will send you newsletters and will use your email address for this purpose.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Personal information processed for the purpose of direct marketing will be transferred to the data processor MailerLite Limited.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Changing the settings, also, would not remove advertising from the site, but would instead make it less relevant and even more annoying.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Our website is affiliated with Freestar for the purposes of placing advertising on the Site, and Freestar will collect and use certain data for advertising purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These cookies, used by us and third parties, are designed to show you offers or other promotional information that may be of interest to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use cookies that collect data about your browsing history and identify your areas of interest so that we can show you relevant marketing information.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Headquarters of the majority of the social media networks administrators are established in third countries mostly, USA, so visiting our Social Media Accounts may result in transfer of your personal data to third countries mostly, USA.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you wish to opt-out of the sale, sharing to third parties, or processing of your personal or sensitive information for targeted advertising by us, please use the below opt-out section to confirm your selection.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Please note that after your opt-out request is processed you may continue seeing interest-based ads based on personal information utilized by us or personal information disclosed to third parties prior to your opt-out.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You may separately opt-out of the further disclosure of your personal information by third parties on the IABs list of downstream participants.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This information may also be disclosed by us to third parties on the IABs List of Downstream Participants that may further disclose it to other third parties.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We and our trusted partners use technology such as cookies on our site to personalize content and ads, provide social media features, and analyze our traffic.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

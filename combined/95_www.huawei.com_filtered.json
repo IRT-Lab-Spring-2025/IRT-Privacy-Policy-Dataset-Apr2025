@@ -1,0 +1,44 @@
+[
+  {
+    "Huawei will process your personal data following the requirements of applicable laws on an appropriate legal basis, including Processing your personal data to fulfill the contract when responding to a transaction or service request Processing your personal data with your consent Processing based on the legitimate interests of Huawei or a third party when we use your personal data to contact you, conduct marketing or market surveys, improve our products and services, execute and improve our loss prevention and anti-fraud programs, and other purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In addition, as a global company, we may share personal data with Huawei affiliates and subsidiaries.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "As a global company, your personal data collected by Huawei may be processed or accessed in the country/region where you use our products and services or in other countries/regions where Huawei or its affiliates, subsidiaries, service providers or business partners have a presence.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These jurisdictions may have different data protection laws.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In such circumstances, Huawei will take measures to ensure that data is processed as required by this Policy and applicable laws, which includes when transferring the data subjects personal data from the EU to a country or region which has not yet been acknowledged by the EU Commission as having an adequate level of data protection, we may use a variety of legal mechanisms, such as signing standard contractual clauses approved by the EU Commission, obtaining the consent to the cross-border transfer of a data subject in the EU, or implementing security measures like anonymizing personal data before cross-border data transfer.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You agree that your access and all related activities on or through this Website shall be governed by, construed, and interpreted in accordance with the laws of the People's Republic of China.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

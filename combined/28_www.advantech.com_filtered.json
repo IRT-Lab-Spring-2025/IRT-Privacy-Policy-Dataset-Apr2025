@@ -1,0 +1,30 @@
+[
+  {
+    "We may use cookies to store your preferences and settings, help with sign-in, provide targeted ads and analyze site operations.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Advantech uses the data we collect for three basic purposes: to operate our business, to send communications, and to show advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "When the advertising ID is enabled in Advantech.com as part of your privacy settings, Advantech apps can access and use the advertising ID.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may share data we collect with third parties, such as Siebel, Salesforce, and Google Analytics so we can service you better and target our marketing messages to your preferences.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

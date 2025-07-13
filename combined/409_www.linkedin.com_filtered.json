@@ -1,0 +1,51 @@
+[
+  {
+    "You can opt out from our use of data from cookies and similar technologies that track your behavior on the sites of others for ad targeting and other ad-related purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We get data when you visit sites that include our ads, cookies or plugins or when you log-in to others services with your LinkedIn account.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may use your personal data to improve, develop, and provide products and Services, develop and train artificial intelligence AI models, develop, provide, and personalize our Services, and gain insights with the help of AI, automated systems, and inferences, so that our Services can be more relevant and useful to you and others.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "We serve you tailored ads both on and off our Services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We target and measure the performance of ads to Members, Visitors and others both on and off our Services directly or through a variety of partners, using the following data, whether separately or combined.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For example, we may use your data to generate statistics about our Members, their profession or industry, to calculate ad impressions served or clicked on e.g., for basic business reporting to support billing and budget management or, subject to your settings, for reports to advertisers who may use them to inform their advertising campaigns, to show Members information about engagement with a post or LinkedIn Page, to publish visitor demographics for a Service or create demographic workforce insights, or to understand usage of our services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Countries where we process data may have laws which are different from, and potentially not as protective as, the laws of your own country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

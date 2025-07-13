@@ -1,0 +1,79 @@
+[
+  {
+    "We might use your data for personalized communications, marketing and product personalization.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "When we transfer your personal data abroad, we protect your data with a variety of technical, organizational, and legal measures.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Due to our global nature, data you provide to us may be transferred to or accessed by Signify affiliates and trusted third parties from many countries around the world for purposes described in this Privacy Notice.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "As a result, your data may be processed outside the country where you live.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you are located in a country member of the European Economic Area, we may transfer your data to countries located outside of the European Economic Area.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Some of these countries are recognized by the European Commission as providing an adequate level of protection.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "With regard to transfers from the European Economic Area to other countries that are not recognized by the European Commission as providing an adequate level of protection, we have put in place adequate measures to protect your data, such as organizational and legal measures (e.g. binding corporate rules and approved European Commission standard contractual clauses, or similar frameworks).": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "After receiving your opt-in consent, we sometimes disclose personal data collected via cookies for cross-contextual behavioral advertising purposes, which may qualify as sharing your personal data under the CCPA/CPRA.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Right to Control Use: You may have the right to control or limit the use of your personal data, including Right to Opt-Out of Sales/Sharing/cross-context behavioral advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "After receiving your prior consent, we sometimes disclose personal data collected via cookies for cross-contextual behavioral advertising purposes, which may qualify as sharing your personal data under the VCDPA.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To opt out, you can adjust your cookie preferences on our website to block our advertising cookies, or you can change your device settings to block cookies or install a third-party plugin to control how cookies interact with your device.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

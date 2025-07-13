@@ -1,0 +1,16 @@
+[
+  {
+    "a. When you need permission To use any of the following things Whole shows Clips Photos Content from bbc.co.uk Our logo and other branding Metadata Anything plucked from our services to develop or train artificial intelligence or to do computer analysis Anything else thats protected by copyright.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "For example, if you send an image to BBC News, we could share a news item featuring that image with a foreign broadcaster, whod then be able to do all the things above.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

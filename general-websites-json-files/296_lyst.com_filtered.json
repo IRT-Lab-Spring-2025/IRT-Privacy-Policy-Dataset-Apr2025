@@ -1,0 +1,135 @@
+[
+  {
+    "5. Where Will We Store Your Information? To provide the Services, the information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area EEA.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "It may also be processed and used by staff operating outside the EEA who work for us or by one of our third-party service providers.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Promotions We may also share your data with Lyst Partners in connection with certain promotions and competitions.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "c Affiliate Networks Lyst shares personal data with affiliate networks such as Rakuten Affiliate Network for the purpose of Lyst participating as a publisher in the Affiliate Network and entering into engagements with Partners.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "d Advertisers Advertisers and advertising networks may use automated technologies such as cookies to collect information about your website activity on the Sites and other sites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This is used to target advertising to you online that may be of interest to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may share your data such as unique identifiers derived from your registration information on our website or app with these third-party sites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We sometimes work with social media services, such as Facebook, to provide custom audiences to partners.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "It is a form of targeted advertising that lets our partners advertise to their existing audiences who are on Facebook.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Our user information is hashed before it is sent to Facebook.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Alternatively, a partner might request we work with Facebook to create a lookalike audience.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Facebook will generate a lookalike audience from a source audience, such as a custom audience, we have already shared with them.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "A lookalike audience is created by Facebook identifying qualities of the people in the source audience and delivering targeted advertising to an audience of people who look like the source audience.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "A lookalike audience is a way for partners to reach new users who might be interested in our Services because they are similar to our existing users.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may also work with platforms, such as Google, to create audience groups from the email addresses we hold and retarget users across different advertising networks.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Ensuring that our marketing communications, advertising and recommendations are relevant to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Sharing of personal information We may allow some third-party advertising partners to collect information about your website activity via automated technologies on the Sites, such as cookies.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This is used to target advertising to you online that may be of interest to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In consideration for Lyst granting you access to and use of the Services, you agree that Lyst and its third party providers and partners may place such advertising on the Services or in connection with the display of Content or information from the Services whether submitted by you or others.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

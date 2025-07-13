@@ -1,0 +1,65 @@
+[
+  {
+    "For example, we use the information to troubleshoot and protect against errors perform data analysis and testing conduct research and surveys and develop new features and Services, which may include generative artificial intelligence models.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "We may disclose such information publicly and to third parties, for example, in public reports about exercise and activity, to partners under agreement with us, or as part of the community benchmarking information we provide to users of our subscription services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "ANALYTICS AND ADVERTISING SERVICES PROVIDED BY OTHERS We work with partners who provide us with analytics and advertising services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This includes helping us understand how users interact with the Services, serving advertisements on our behalf across the internet, and measuring the performance of those advertisements.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Please note that the countries where we operate may have privacy and data protection laws that differ from, and are potentially less protective than, the laws of your country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We rely on multiple legal bases to lawfully transfer personal data to third countries around the world.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Our Cookie Use statement describes your options for controlling how we and our partners use cookies and similar technologies for advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We do work with partners who provide us with advertising services as described in the Analytics and Advertising Services Provided By Others section.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To learn more about how these partners collect data and your options for controlling the use of your information for interest-based advertising, please read our Cookie Use statement.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

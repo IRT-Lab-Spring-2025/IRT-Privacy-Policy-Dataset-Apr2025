@@ -1,0 +1,79 @@
+[
+  {
+    "Your personal data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of personal data may be less stringent than the laws in your country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "SmartAsset is a member of the Digital Advertising Alliance (DAA) self-regulatory program and adheres to the DAA self-regulatory Principles for Online Behavioral Advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We work with a variety of advertisers, ad networks and analytics companies (Ad Partners) that collect information about your use of our services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can opt out of the use of interest-based advertising at any time by visiting the Digital Advertising Alliance consumer choice page.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may use your personal data to provide you with the Services and customer support, respond to your requests, resolve disputes and/or troubleshoot problems, verify your compliance with your obligations in our Terms of Use or other policies, improve the quality of the Site and the Services, communicate with you about the Site and the Services, and market our Services and those of third parties to you that we believe may be of interest to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "A California resident who has provided personal data to a business with whom they have established a business relationship for personal, family, or household purposes may request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Should you decide to opt-out of receiving future mailings, we may share your e-mail address with third parties to ensure that you do not receive further communications from third parties.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "As we explain in our Privacy Policy, we use cookies and other tracking technologies to analyze website traffic and facilitate advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you would like to learn how you may opt out of our and our third party advertising partners' use of cookies and other tracking technologies, please review the instructions provided in the Online Tracking Opt-out Guide.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use services provided by Google, Facebook and others companies that use tracking technology.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "15. THIRD-PARTY CONTENT AND OTHER WEBSITES. Content from advertisers and other third parties may be made available to you through the Site, APP, ANDOR THE SERVICES.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

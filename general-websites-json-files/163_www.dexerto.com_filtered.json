@@ -1,0 +1,37 @@
+[
+  {
+    "Clicking on those links or enabling those connections may allow third parties to collect or share data about you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We share your personal data with staff operating outside the UK, involving transferring your data outside the UK.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Advertising and Marketing Partners Third parties that assist us in delivering, targeting, and measuring the effectiveness of advertising on our website.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This includes ad networks, demand-side platforms DSPs, social media platforms, and analytics providers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These partners help us show relevant ads to our users and understand the performance of our ad campaigns.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

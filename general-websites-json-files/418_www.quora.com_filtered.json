@@ -1,0 +1,86 @@
+[
+  {
+    "We may also receive these types of information about you from third parties, such as our partners including ad partners or Quora affiliates.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Third party advertisers who use our Ad Services may also provide us with information about you as part of their ad campaigns e.g., email addresses to create custom audiences for personalizing their ad campaigns or for measuring the effectiveness of their ads.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To tailor the content and information that we or our third party content publishers or advertisers may send or display to you in the Quora Platform.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To display interest-based, retargeted, contextual, and behavioral advertising to you in the Quora Platform.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We also may use your information, to improve our advertising and measurement systems so we can show you relevant ads and to measure the effectiveness and reach of ads and services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For marketing and promotional purposes, such as to send you news, special offers, promotions, or to otherwise contact you about products or information we think may interest you, including information about third-party products and services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We share your information with third-party service providers who use this information to perform services for us, such as payment processors, hosting providers, auditors, advisors, consultants, customer service providers, as well as service providers who assist us in providing the Ad Services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This aggregated data may include the number of unique user views, demographics about the users who saw their ads or content, and conversion rates.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Certain features allow you to share your personal information with advertisers on our platform if you choose to do so.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "As such, we and our service providers may transfer your personal information to, or access it in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can opt out of having your content on Quora i.e. your answers, posts, and comments used for Large Language Model LLM training purposes via your privacy settings.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "Depending on your location you may have the right to opt out of having your personal information shared or used for targeted advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

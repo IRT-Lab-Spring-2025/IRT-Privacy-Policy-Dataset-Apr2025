@@ -1,0 +1,16 @@
+[
+  {
+    "As a global organization, data we collect may be transferred internationally throughout Hard Rocks worldwide organization and to Hard Rocks headquarters in the United States.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Some of the jurisdictions to which data is transferred may not provide the same level of privacy protection as your local jurisdiction.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "Online Tracking and Interest-Based Advertising": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "When you use our websites and apps, information about your online activities may be collected to provide you with advertising about products and services tailored to your interests.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Ad networks allow us to target our messaging to individuals considering demographic data, individuals inferred interests and browsing context.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The networks use this information to show ads that may be tailored to individuals interests, to track individuals browsers or devices across multiple websites, and to build a profile of individuals online browsing activities.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The information our ad networks may collect includes data about individuals visits to websites that participate in the relevant ad networks, such as the pages or ads viewed and the actions taken on the websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This data collection takes place both on our websites and on third-party websites that participate in the ad networks.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To learn how to opt out of ad network interest-based advertising in the U.S., please visit www.aboutads.info/choices, http://www.networkadvertising.org/choices, http://preferences-mgr.truste.com and our Cookie Policy.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

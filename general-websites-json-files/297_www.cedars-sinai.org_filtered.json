@@ -1,0 +1,16 @@
+[
+  {
+    "We may use certain thirdparty technology vendors such as Facebook, Adobe, and Hotjar in connection with your activity on certain pages, including for advertising purposes and to understand details about your use of the Site including referring URL, clicks, cursor movement, and scrolling activity and personalize content for you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you use the tools and features available through CS Connect e.g., symptom checker and similar tools and features, K Health may deidentify the information you provide through these features and use that de-identified information for its own internal purposes, including to train AI-based models.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  }
+]

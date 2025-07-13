@@ -1,0 +1,114 @@
+[
+  {
+    "This allows us to deliver, personalize and develop relevant features, content, advertising and Services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may recognize your devices to provide you with personalized experiences and advertising across the devices you use.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This information also includes the content or ads served, viewed or clicked on cursor and scroll movements on our Services certain screen interactions and content you input on the Services the frequency and duration of your activities the sites or apps you used before accessing our Services and where you went next whether you engaged with specific content or ads and whether you went on to visit an advertisers website, downloaded an advertisers app, purchased a product or service advertised, or took other actions.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "From advertisers about your experiences or interactions with their offerings.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Help advertisers and publishers connect to offer relevant advertising in their apps and websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Match and serve targeted advertising across devices and both on and off of our Services and provide targeted advertising based on your device activity, inferred interests and location information.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Create analytics and reports for external parties, including partners, publishers, advertisers, apps, third-parties and the public regarding the use of and trends within our Services and ads, including showing trends to partners regarding general preferences, the effectiveness of ads and information on user experiences.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may share aggregated or pseudonymous information including demographic information with partners, such as publishers, advertisers, measurement analytics, apps, or other companies.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For example, we may tell an advertiser how its ads performed or report how many people installed an app after seeing a promotion.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We allow other companies that show advertisements on our webpages or apps to collect information from your browsers or devices.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Regardless of the country where you reside, you authorize us to transfer, process, store and use your information in countries other than your own in accordance with this Privacy Policy and to provide you with Services.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Some of these countries may not have the same data protection safeguards as the country where you reside.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Where appropriate, we also rely on other transfer mechanisms such as data processing agreements based on Standard Contractual Clauses adopted by the European Commission or the United Kingdom.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The United States and other non-EUEEAUK countries have different laws on data protection and rules in relation to government access to information.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you are based in the EUEEAUK, when your data is moved from your home country to a third country outside the EUEEAUK, some of these countries may not have the same data protection safeguards as your home country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "By utilizing our Services, you consent to sharing data that you provide to us, or that resides within your Yahoo account, including your Yahoo Mail inbox with our AI Providers for the purpose of enhancing features within our Services made available to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  }
+]

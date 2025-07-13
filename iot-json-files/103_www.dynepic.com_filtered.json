@@ -1,0 +1,44 @@
+[
+  {
+    "We also use the information we collect and receive to provide content and advertising that people are likely to find relevant and engaging.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may also share certain information with reputable third parties and service providers for activities solely in support of internal operations, such as to perform analytics or to serve advertisements.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "DoubleClick through blog embedded YouTube videos": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Google AdWords Conversion": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Google Dynamic Remarketing": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "By using our Sites, visitors consent to the collection, international transfer, storage, and processing of their information as set forth in this Site PP and any other privacy notice provided at the time the information is collected, and your personal information may be subject to legal requirements, including lawful requirements to disclose personal information to government authorities, in those jurisdictions.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

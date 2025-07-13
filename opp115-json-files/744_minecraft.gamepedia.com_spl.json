@@ -1,0 +1,30 @@
+[
+    {
+        "**Cookies** \"Cookies\" are small bits of electronic information that a website sends to a visitor's browser and are stored on the visitor's hard drive. Like many websites, we employ cookies in certain areas of the Site(s) to allow us to provide information which is targeted to your interests and to make your online experience more convenient. For example, when you return to one of our websites after logging in, cookies provide information to the website so that the website will remember who you are. Should you disable cookies in your browser, you will have to provide your screen name and password each time you log in. Additionally, advertisements that are managed by third parties which may appear on the Site(s) use cookies. Advertisers use cookies to collect non-personal information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. Advertisers use this information to monitor the performance of their advertisements. In some cases, we may have access to information from cookies used by these advertisers on the Site(s) and this information may permit us to identify other sites that you have visited that are also associated such advertisers.": {
+            "data_transferred_to_unfriendly_countries": false,
+            "data_shared_with_advertisers": true,
+            "data_used_for_AI_training": false
+        }
+    },
+    {
+        "**Will we share your personal information with third parties?** **Sharing of Information** We may use your personal information to provide analyses of our users in the aggregate to prospective partners, advertisers and other third parties. We may also disclose and otherwise use, on an anonymous basis, affiliation, position, interests and other non-personal information about customers.": {
+            "data_transferred_to_unfriendly_countries": false,
+            "data_shared_with_advertisers": true,
+            "data_used_for_AI_training": false
+        }
+    },
+    {
+        "**What choices do you have about the collection and use of your personal information?** **Control of Your Information** We may use third-party advertising companies, such as Yahoo!, Google, OpenX, Lijit to serve ads when you visit our website. These companies may use information about your interests in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Digital Advertising Alliance's or Network Advertising Initiative's website.": {
+            "data_transferred_to_unfriendly_countries": false,
+            "data_shared_with_advertisers": true,
+            "data_used_for_AI_training": false
+        }
+    },
+    {
+        "**European Union and Switzerland Directive on Data Protection - Safe Harbor** Curse complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Curse has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Curse's certification, please visit http://www.export.gov/safeharbor/.": {
+            "data_transferred_to_unfriendly_countries": true,
+            "data_shared_with_advertisers": false,
+            "data_used_for_AI_training": false
+        }
+    }
+]

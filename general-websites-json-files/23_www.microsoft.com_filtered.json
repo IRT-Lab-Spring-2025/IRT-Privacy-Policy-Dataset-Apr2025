@@ -1,0 +1,58 @@
+[
+  {
+    "We rely on third parties to collect demographic data to supplement the data we collect.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Personalize our products and make recommendations.Advertise and market to you, which includes sending promotional communications, targeting advertising, and presenting you with relevant offers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To build, train, and improve the accuracy of our automated methods of processing including artificial intelligence or AI, we manually review some of the output produced by the automated methods against the underlying data.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "As part of our efforts to improve and develop our products, we may use your data to develop and train our AI models.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "Please note that, as defined under certain U.S. state data privacy laws, sharing also relates to providing personal data to third parties for personalized advertising purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Your advertising choices to opt out of receiving personalized advertising from Microsoft, including Xandr, visit our opt-out page.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We collect certain types of third-party cookies that may be used for advertising and analytics purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Cookies and similar technologies aid in storing your preferences and settings and help you sign in, provide interest-based advertising, combat fraud, analyzing how our products perform, and fulfilling other legitimate purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "The aggregated information collected is anonymized identifying information removed and sometimes shared with our advertisers, however, we do not share specific individual information with third parties. i Northstar operates several websites featuring its travel-related content and services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "In general, Northstar does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you have requested, when we have your consent as indicated in Section I of this Policy, as follows a Northstar may use personal information collected through its website to send out targeted email promotions on behalf of its advertisers and industry partners. b We may provide personal information about our users to trusted partners and vendors who work on behalf of or with Northstar under written confidentiality and similar agreements prohibiting such parties further use of the information.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These companies may use your personal information to help Northstar communicate with you about offers from Northstar and our marketing partners.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you are an EU resident, we will seek your affirmative consent to provide the third-party sponsor with your personal information in a manner clearly specified on the registration materials, unless otherwise posed in connection with the promotion. d Northstar may from time to time share limited personal information such as email addresses, company name, job title and state of business or residence with trusted third parties who deliver content that is likely to be of interest to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "By using our products and services you understand and agree that your personal information may be transferred from the European Economic Area EEA, which comprises the European Union countries plus Norway, Iceland, Liechtenstein to a country that does not have an equivalent level of data protection, such as the United States.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "When your personal information is transferred from your home country to another country, the laws and regulations that protect your personal information may be different than those in your home country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To the extent that Northstar is deemed to transfer your personal information outside the EEA, Northstar relies upon data transfer agreements with Model Contract Clauses, which the European Commission has adopted to provide safeguards for personal information that is transferred outside the EEA.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Northstar may provide personal information to its business partners for cross-contextual behavioral advertising, which disclosure is within the definition of Sharing of Personal Information within CPRA.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "We use cookies and similar tracking technologies to collect information about your use of the Services and to provide you with interest-based advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This means that a third party uses technology e.g., a cookie to collect information about your use of our website so that they can report analytics to us or provide advertising about products and services tailored to your interests.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "That third party might also collect information over time and across different websites in order to serve advertisements on our website or other websites.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "b Third Party Marketing Partners and Social Media Platforms We collect information about your publicly available social media profiles and any information obtained about your preferences and interests from third-party marketing partners.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For example, when you enable Smart Dog Alerts on your account, we use your Content data to test and refine our artificial intelligence algorithms.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "As permitted by applicable law or based on your consent, Tomofun may disclose your personal information to third parties for marketing purposes.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "When you access or use our Services, we may transfer your personal information to countries in the world where Tomofun conducts business.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Such countries may be located outside of the country or jurisdiction where you are located and may have data protection laws that are less protective than the laws of the jurisdiction in which you reside.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you do not want your information transferred to or processed or maintained outside of the country or jurisdiction where you are located, you should not use the Services.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The categories of Personal Information that may be disclosed to a third party in a way that is considered a sale and sharing under California law include identifiers, internet activity information, geolocation data, and commercial information.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You have the right to request in writing i a list of the categories of Personal Information, such as name, address, email address, that a business has disclosed during the immediately preceding calendar year for a third party for its direct marketing purposes, and ii the names and addresses of all such third parties.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "Whenever you visit or interact with the site, we, as well as any third-party advertisers and/or service providers, may use cookies, web beacons, local shared objects (Flash Cookies), or other technologies to automatically or passively collect information about your online activity and website use information.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may use third parties analytics and tracking tools to better understand who is using the website, how people are using the website, how to improve the effectiveness of the website, our services and related content, to help us or those third parties serve more targeted advertising to you across the Internet, and to allow Like buttons and Share buttons to work.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We also use anonymous or aggregated information to allow us to audit site usage, create marketing profiles, manage our relationship with advertisers, and to provide support services to us.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This processing may involve profiling - for example to create audiences based on demographic or location-based information for marketing and customization.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Selected Advertisers.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We sometimes work with advertisers or other third parties to serve ads targeted to your interests, or to collect data for conversion tracking that is, what actions you take after you click on an ad.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We do on occasion provide magazine subscribers postal mailing addresses but not your email address to selected advertisers who wish to reach you by mail.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may use cookies or other technologies to deliver more relevant advertising and to link data collected across other computers or devices that you may use.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "To learn more about the use of cookies or other technologies to deliver more relevant advertising and to know your choices with respect to collection and use of the data by these third party tools, you may visit the Digital Advertising Alliance's (DAA) opt-out page at http://www.aboutads.info/choices, or the National Advertising Initiative's (NAI) opt-out page at http://www.networkadvertising.org/choices.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "On your mobile device, you may also adjust your privacy and advertising settings to control whether you want to receive more relevant advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For data transferred from the EEA to HBP or its service providers outside the EEA, HBP relies on the EU Model Clauses issued by the European Commission to provide an adequate level of protection.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  }
+]

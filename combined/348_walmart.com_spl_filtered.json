@@ -1,0 +1,44 @@
+[
+    {
+        "**Service Providers** We share personal information about you with service providers that help with our business activities, including shipping vendors, billing and refund vendors, payment card processors, and companies that help us improve our products and services. We require our service providers to keep your personal information secure. We do not allow our service providers to use or share your personal information for any purpose other than providing services on our behalf. Your personal information may be stored and processed by our service providers in the United States or other locations where the service providers or Walmart maintain facilities.": {
+            "data_transferred_to_unfriendly_countries": true,
+            "data_shared_with_advertisers": false,
+            "data_used_for_AI_training": false
+        }
+    },
+    {
+        "We also personalize your experience on our sites and mobile services by showing you advertisements from Walmart or our advertising partners that are tailored to your interests. Learn more about interest-based advertising, including how to opt out.": {
+            "data_transferred_to_unfriendly_countries": false,
+            "data_shared_with_advertisers": true,
+            "data_used_for_AI_training": false
+        }
+    },
+    {
+        "**Marketing Preferences** When we are sending marketing communications to you, we use the following standards: We use an opt-in standard for phone and text messages. We use an opt-in standard for sharing personal information with companies outside our corporate family of companies for their use in direct marketing, such as sending you promotions. Opt-in means we will only conduct the activity with your affirmative consent.": {
+            "data_transferred_to_unfriendly_countries": false,
+            "data_shared_with_advertisers": true,
+            "data_used_for_AI_training": false
+        }
+    },
+    {
+        "We show you advertisements related to Walmart or our advertising partners. We belong to ad networks that may use your browsing history across participating websites and mobile services to show you interest-based advertisements. You may also see ads for Walmart on participating websites and mobile services based on how you browse. We do not share personal information about you with companies that advertise on our websites without your consent. Learn more about interest-based advertising, including how to opt out.": {
+            "data_transferred_to_unfriendly_countries": false,
+            "data_shared_with_advertisers": true,
+            "data_used_for_AI_training": false
+        }
+    },
+    {
+        "**What Are Your California Privacy Rights?** Our Privacy Policy describes how we share information for marketing purposes. The Policy and rights apply to all customers, including California residents.": {
+            "data_transferred_to_unfriendly_countries": false,
+            "data_shared_with_advertisers": true,
+            "data_used_for_AI_training": false
+        }
+    },
+    {
+        "Our Privacy Policy describes how we share information for marketing purposes. The Policy and rights apply to all customers, including California residents: * We share personal information with others outside of Walmart for direct marketing of their products only if we have your affirmative consent (opt in). See \"How Do We Share Your Personal Information Outside Walmart?\" * We share personal information with other businesses within our corporate family, such as Sam's Club and Vudu. See \"How Do We Use Your Personal Information?\"": {
+            "data_transferred_to_unfriendly_countries": false,
+            "data_shared_with_advertisers": true,
+            "data_used_for_AI_training": false
+        }
+    }
+]

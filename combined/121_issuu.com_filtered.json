@@ -1,0 +1,30 @@
+[
+  {
+    "2": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "1": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Published Content. By uploading Published Content to the Issuu Service, you hereby grant to Issuu a worldwide, non-exclusive, transferable, assignable, fully paid-up, royalty-free, license to host, transfer, display, perform, reproduce, distribute, and otherwise use your Published Content, in any media forms or formats, and through any media channels, now known or hereafter devised, including without limitation, RSS feeds, embeddable functionality, and syndication arrangements in order to distribute, promote or advertise your Published Content through the Issuu Service.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "This license also includes the right for Issuu to convert your Published Content to Issuu's proprietary format, or such other file formats as may be used by Issuu, and to display and make your Published Content available, in whole or in part (including excerpts), on the Issuu Service in association with other Published Content, content or advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

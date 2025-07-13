@@ -1,0 +1,16 @@
+[
+  {
+    "As a US-based company that operates a worldwide gaming service, we may transfer your personal data outside of the European Economic Area, the United Kingdom or Switzerland.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If we sold or disclosed your Personal Information for a business purpose, two separate lists disclosing a sales, identifying the Personal Information categories that each category of recipient purchased and b disclosures for a business purpose, identifying the Personal Information categories that each category of recipient obtained.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

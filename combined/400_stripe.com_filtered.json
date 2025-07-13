@@ -1,0 +1,198 @@
+[
+  {
+    "Subject to applicable law, including any consent requirements, we use and share End User Personal Data with third party partners to allow us to advertise our End User Services to you, including through interest-based advertising, and to track the efficacy of such ads.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We do not transfer your Personal Data to third parties in exchange for payment, but we may provide your data to third-party partners, such as advertising partners, analytics providers, and social networks, who assist us in advertising our Services to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Advertising by Business Users. If you initiate a purchasing process with a Business User, the Business User receives your Personal Data from us in connection with our provision of Services even if you don\u2019t finish your purchase.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The Business User may use your Personal Data to market and advertise their products or services, subject to the terms of their privacy policy.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "As a Representative, we may collect your Personal Data from third parties, including data providers, to advertise, market, and communicate with you as detailed further in the More ways we collect, use, and share Personal Data section below.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Advertising. Where permitted by applicable law, and where required with your consent, we use and share Representatives Personal Data with third parties, including Partners, so we can advertise and market our Services and Partner integrations.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Subject to applicable law, including any consent requirements, we may advertise through interest-based advertising and track the efficacy of such ads.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "However, we may provide your data to third party partners, like advertising partners, analytics providers, and social networks, who assist us in advertising our Services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Advertising. Where permitted by applicable law, and where required with your consent, we use and share Visitors Personal Data with third parties, including Partners, so we can advertise and market our Services and Partner integrations.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Subject to applicable law, including any consent requirements, we may advertise through interest-based advertising and track the efficacy of such ads.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We do not transfer your Personal Data to third parties in exchange for payment, but we may provide your data to third party partners, like advertising partners, analytics providers, and social networks, who assist us in advertising our Services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Training machine learning models to power our Services and protect against fraud and other harm.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  },
+  {
+    "We also use the Personal Data you provide, along with the Personal Data you make available on social media platforms, for marketing purposes, unless we are not permitted to do so.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The majority of our service providers are based in the European Union, the United States of America, and India.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Compliance and Harm Prevention. We share Personal Data when we believe it is necessary to comply with applicable law to abide by rules imposed by Financial Partners in connection with the use of their payment method to enforce our contractual rights to secure and protect the Services, rights, privacy, safety, and property of Stripe, you, and others, including against malicious or fraudulent activity and to respond to valid legal requests from courts, law enforcement agencies, regulatory agencies, and other public and government authorities, which may include authorities outside your country of residence.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "6. International Data Transfers As a global business, it's sometimes necessary for us to transfer your Personal Data to countries other than your own, including the United States.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "These countries might have data protection regulations that are different from those in your country.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "When Stripe relies on service providers to process Personal Data as described herein, those service providers may also be located outside of Canada or Quebec.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "When we transfer Personal Data of data subjects in Japan to jurisdictions not recognized as adequate by the Personal Information Protection Commission, we enter into written agreements with any third parties located outside of Japan.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "However, as noted above, we may provide the data to third party partners, such as advertising partners, analytics providers, and social networks, who assist us in advertising our products and Services to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Because these third parties may use the data Stripe provides for their own purposes, Stripe's provision of data to these parties may be considered a data sale or sharing for behavioral advertising as those terms are defined under the CCPA and other applicable US privacy laws.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You can opt out of targeted advertising and any related data sales or sharing for behavioral advertising here.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For joint marketing with other financial companies Yes No.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For non-affiliates to market to you for data not collected through Financial Connections Yes Yes.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Nonaffiliates with which we share personal information include service providers that perform services or functions on our behalf, Business Users with which you choose to transact, partners with which we share data to provide you with services, and advertising partners, analytics providers, and social networks, who assist us in advertising our Services to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Joint Marketing A formal agreement between non-affiliated financial companies that together market financial products or services to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Our joint marketing partners include financial companies we partner with to provide you with financial services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "For joint marketing, we will only disclose your name, contact information, and information about your transactions.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

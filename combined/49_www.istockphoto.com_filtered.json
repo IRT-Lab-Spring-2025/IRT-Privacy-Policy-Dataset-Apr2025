@@ -1,0 +1,16 @@
+[
+  {
+    "6 For companies that sell personal information, the categories of personal information sold about you and the categories of third parties to which the personal information was sold, by category or categories of personal information for each third party to which the personal information was sold.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "If you reside in a state that requires us to provide such opt out mechanism, to opt out of sharing and selling for purposes of cross context behavioral advertising click here.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

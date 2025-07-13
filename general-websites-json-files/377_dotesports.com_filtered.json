@@ -1,0 +1,37 @@
+[
+  {
+    "We may use your information to provide, administer, maintain, and improve our Services personalise your experience of the Services analyse user activity of our Services provide you with support regarding our Services engage in interest-based advertising activity via third party services including tracking technologies enforce our rights and the rights of other users of the Services, and to comply with our legal obligations or to prevent imminent and serious bodily harm to a person.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "The Third Party Services we implement may also utilize or allow us access to other services and other third party service providers, including, but not limited to, the following, each of which may also collect data in accordance with their respective privacy policies or arrangements with the Third Party Services AMX AppNexus Criteo Equativ GumGum Index Exchange Kargo Magnite Medianet OpenX Speedtag ShareThrough She Media Sovrn Teads Concert collectively, the External Services.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may transfer Personal Information for processing in countries in which the privacy laws may not be as comprehensive as those in the country where you reside or are a citizen.": {
+      "data_transferred_to_unfriendly_countries": true,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Opt-out of personal data processing for targeted advertising excluding Iowa sales or profiling in furtherance of decisions that produce legal or similarly significant effects excluding Iowa and Utah.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Use the Content to develop any software program, including, but not limited to, training a machine learning or artificial intelligence AI system.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": false,
+      "data_used_for_AI_training": true
+    }
+  }
+]

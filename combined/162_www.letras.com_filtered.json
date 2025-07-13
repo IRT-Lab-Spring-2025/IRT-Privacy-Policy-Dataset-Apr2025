@@ -1,0 +1,37 @@
+[
+  {
+    "This makes it possible to provide you with personalized content, individualized or adapted to your location, recommendations, functionalities, and advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "You may also choose not to collect anonymous Audience Science data via the link httpwww.networkadvertising.orgmanagingopt_out.asp": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "When you use any Vignolis website or app, data may be collected, for advertising purposes, about the device including the advertising identifier from Android, iOS or from other similar operating systems, as well as location data received from the device sensors.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "There is also a collection of data about advertising on the device, including clicks made from it, impressions, and time spent on advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "YouTube will have access to which of our sites you have visited.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

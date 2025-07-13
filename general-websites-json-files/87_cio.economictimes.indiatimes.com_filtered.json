@@ -1,0 +1,37 @@
+[
+  {
+    "It could include information from third parties that we work with to provide our products and services, such as delivery companies, technical support companies and advertising companies.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We use this information to inter-alia deliver our web pages to you upon request, to tailor our Platforms to the interests of our users, to measure traffic within our Platforms to improve the quality, functionality and interactivity of our Platforms and let advertisers know the geographic locations from where our Users come without personally identifying the users.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "3.2 We may use andor disclose your information with the Company-controlled businesses, affiliates, subsidiaries and other entities within the Times group of companies, other third party business partners, service providers including but not limited to services provider, advertising networks, technology partner, social networks and any other third parties to assist them to reach out to you in relation to their programs or campaigns including marketing and sales and to process your query  requests such as job application andor provide with the services to process payments on our behalf.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "recommendations services, ad tech services, analytic services, including but not limited to click stream information, browser type, time and date, information about your interactions with advertisements and other content, including through the use of cookies, beacons, mobile ad identifiers, and similar technologies, in order to provide content, advertising, or functionality or to measure and analyze ad performance, on our Services or Platforms and on 3 rd party platforms.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "serve ads on our Platforms, affiliate websites, and any other digital platform available on the internet.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]

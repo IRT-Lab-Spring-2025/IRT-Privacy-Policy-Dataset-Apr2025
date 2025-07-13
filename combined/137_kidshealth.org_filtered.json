@@ -1,0 +1,23 @@
+[
+  {
+    "We, or our vendors, may use or disclose personal information such as to our affiliates, subsidiaries, parent company, business partners, and vendors for various purposes, such as for the following purposes: Communicate and market to you.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "We may use tracking technologies for advertising purposes, including Google Analytics features such as dynamic remarketing, interest-based advertising, audience targeting, behavioral reporting, demographics and interests reporting, user segment analysis, device reporting, and display advertising.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  },
+  {
+    "Please note that we or other parties may collect information about your online activities over time and across different devices and online websites when you use the Websites and combine such information with other information we or other parties obtain about you, including data obtained from external parties.": {
+      "data_transferred_to_unfriendly_countries": false,
+      "data_shared_with_advertisers": true,
+      "data_used_for_AI_training": false
+    }
+  }
+]
